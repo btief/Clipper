@@ -1,0 +1,1690 @@
+;Kingdom of San d'oria
+Port San d'oria,Moghouse,79.095985,-16.000000,-135.714966
+Port San d'oria,North San d'oria,-110.970001,-8.500000,-136.070007
+Port San d'oria,AH,3.750000,-8.299999,-148.729996
+Port San d'oria,Fishing Brothers,-15.980021,-2.000000,-45.990215
+Port San d'oria,Airship NPC,-5.209002,-8.000000,39.832996
+Port San d'oria,Kuzutz Vendor,-58.431053,-3.996520,-85.184921
+Port San d'oria,ElshimoLow. Vendor,-45.064270,-4.000000,-62.666721
+Port San d'oria,Kolshushu Vendor,-52.079166,-8.000005,17.166910
+Port San d'oria,Sarutabaruta Vendor,-28.520927,-8.000005,-1.982204
+Port San d'oria,Movapolis Vendor,-11.999603,-4.000001,-100.442436
+Port San d'oria,ElshimoHigh. Vendor,-21.443420,-8.000002,-121.567711
+Port San d'oria,Event Item Place,-140.884964,-2.000004,19.561913
+South San d'oria,Moghouse,165.199997,-2.000005,162.239990
+South San d'oria,North San d'oria,0.690000,-2.000000,56.599998
+South San d'oria,West Ronfaure,-113.480003,0.000000,-55.950001
+South San d'oria,East Ronfaure,109.169998,0.000005,-55.290001
+South San d'oria,AH,-8.860003,2.000000,-21.740011
+South San d'oria,Ingredient Shop,-144.759995,-8.800005,21.969999
+South San d'oria,Rouva(Rivernewort),-16.845663,2.100001,10.956346
+North San d'oria,Moghouse,133.289993,-0.200000,-5.650002
+North San d'oria,South San d'oria,1.280000,0.000000,-29.910000
+North San d'oria,Port San d'oria,-126.910011,12.000000,268.579987
+North San d'oria,Chateau d'Oraguille,0.000000,-2.000000,117.580002
+North San d'oria,West Ronfaure,-248.890015,7.000001,45.029999
+North San d'oria,West Ronfaure(Watchtower),-235.296799,-4.000021,106.435326
+North San d'oria,OP Warp,-239.579025,8.000000,21.760094
+North San d'oria,Equipment Storage NPC,-92.178009,-0.199006,59.177303
+North San d'oria,Woodworking Guild,-177.255157,12.000005,264.877350
+North San d'oria,Woodworking Guild Shop,-173.915771,4.000000,279.245117
+North San d'oria,Blacksmith Guild Shop,-191.607208,4.000000,161.829224
+North San d'oria,Blacksmith Guild,-183.199753,12.001556,149.273392
+North San d'oria,Fauregandi Vendor,-142.917770,12.000005,219.193375
+North San d'oria,Valdeaunia Vendor,-138.196213,12.000001,156.151306
+North San d'oria,Qufim Vendor,-61.171738,-0.199004,52.147663
+North San d'oria,Aragoneu Vendor,2.373315,0.500000,50.069981
+North San d'oria,Vollbow Vendor,78.155807,-0.199000,27.809910
+North San d'oria,Li'Telor Vendor,122.369377,-0.199005,2.202776
+North San d'oria,Bat Wing NPC,-160.858185,0.000000,135.474152
+Chateau d'Oraguille,North San d'oria,-0.100000,0.000000,-15.790000
+Chateau d'Oraguille,Bostaunieux Oubliette,14.090000,10.500000,24.000000
+San d'oria Moghouse,2F,2.167190,-5.500000,-1.289754
+ ;Republic of Bastok
+Bastok Markets,Moghouse,-149.720001,-4.000000,-29.559999
+Bastok Markets,AH,-329.130005,-15.000002,-56.189999
+Bastok Markets,Bastok Mines,-200.890015,4.000001,-193.429993
+Bastok Markets,Port Bastok,-232.380005,0.000000,86.779999
+Bastok Markets,Metalworks,-209.770004,-10.000000,0.850000
+Bastok Markets,South Gustaberg,-364.799988,-10.500002,-184.520004
+Bastok Markets,Equipment Storage NPC,-211.120026,-6.000000,-90.300003
+Bastok Markets,Kolshushu Vendor,-185.686050,-4.703871,52.670311
+Bastok Mines,Moghouse,120.590004,0.870001,-78.189995
+Bastok Mines,AH,-11.910000,-3.000000,-51.990005
+Bastok Mines,Bastok Markets,-107.289993,12.000002,81.410011
+Bastok Mines,South Gustaberg,-15.250000,-1.500000,-133.899994
+Bastok Mines,Zeruhn Mines,-193.479996,-8.830002,-22.270000
+Bastok Mines,Depot3F,-98.595154,-20.000000,-81.014771
+Bastok Mines,Sand Hill,-143.697205,-7.330858,-55.562084
+Bastok Mines,Prohibited Area,69.983711,7.000000,-21.427208
+Port Bastok,Moghouse,60.000000,8.500000,-240.000000
+Port Bastok,Bastok Markets,-193.180023,2.000000,-79.890007
+Port Bastok,North Gustaberg,142.000000,8.020000,-2.010000
+Port Bastok,Steaming Sheep(Guard),-162.599258,-7.480492,4.620483
+Port Bastok,Event Item Place,31.479034,7.500000,-177.873810
+Metalworks,Bastok Markets,-9.170000,0.000000,-0.500000
+Metalworks,OP Warp,-79.050003,2.000000,-5.840002
+;Federation of Windurst
+Port Windurst,Moghouse,198.979996,-15.650002,257.210114
+Port Windurst,Windurst Woods,229.419998,-7.770008,178.899994
+Port Windurst,Windurst Waters,-113.350075,-8.210003,213.399994
+Port Windurst,West Sarutabaruta,-247.350006,-8.000000,199.470001
+Port Windurst,Windurst Walls Warp,-112.160004,-9.000001,100.400002
+Port Windurst,OP Warp,-135.479614,-5.500000,162.425125
+Port Windurst,Jeuno Airship,229.419998,-2.530009,73.920006
+Port Windurst,Star Onion Brigade,-24.510000,-6.000000,189.229996
+Port Windurst,Airship NPC,233.451004,-6.000000,103.011993
+Port Windurst,Lighthouse(at sea),61.565845,10.000000,-146.386597
+Windurst Woods,Moghouse,-142.170151,-10.050005,39.450001
+Windurst Woods,AH,60.039906,-2.500000,-133.935944
+Windurst Woods,Port Windurst,-91.610001,2.500000,-73.400002
+Windurst Woods,East Sarutabaruta,123.620003,-5.000000,-41.280025
+Windurst Woods,Equipment Storage NPC,14.190001,2.230000,-63.280025
+Windurst Woods,Boneworker's Guild,-6.498430,-5.250000,-136.671844
+Windurst Woods,Weaver's Guild Shop,-74.354446,-2.550015,-127.460297
+Windurst Woods,Weaver's Guild,-38.677422,-1.249998,-119.748703
+Windurst Waters,Moghouse,158.100006,-5.049999,-61.889999
+Windurst Waters,Windurst Walls,155.270004,-2.750000,60.799999
+Windurst Waters,Port Windurst,-58.930000,-2.470000,-208.030014
+Windurst Waters,Windurst Woods Warp,-2.600000,-1.500000,99.840012
+Windurst Waters,West Sarutabaruta,-40.460037,-5.000001,242.850006
+Windurst Waters,Cooking Guild Shop,-102.640137,-2.009045,71.494034
+Windurst Waters,Timbre Timbers Tavern,-65.805717,-3.800023,26.780025
+Windurst Waters,Rhinostery,-0.660000,-4.000000,-178.020004
+Windurst Waters,Event Item Place,-59.990788,-3.500002,73.110985
+Windurst Walls,Moghouse,-257.290009,-5.050000,-121.180000
+Windurst Walls,Windurst Waters,-202.399994,-2.500009,140.690002
+Windurst Walls,Heaven's Tower,-0.010000,-16.750000,138.580002
+Windurst Walls,Toramari Canal,-10.110003,-1.420000,261.809784
+Windurst Walls,Warp to Port,67.346931,-7.353127,-45.750237
+Windurst Walls,AH/Delivery,58.455788,-3.500000,-58.791683
+Windurst Walls,House of the Hero,-26.280006,-13.000000,260.319885
+Windurst Walls,Top of the World,5.865021,-77.763092,143.231613
+Heaven's Tower,Windurst Walls,0.000000,0.000000,-32.040001
+Heaven's Tower,Starting Point,0.010000,0.000000,-22.412004
+Heaven's Tower,Basement,0.000000,30.750000,20.000002
+Heaven's Tower,2F Tsuryarya,-0.881000,-26.000000,15.950006
+Heaven's Tower,3F,0.096160,-47.000000,-0.410638
+Heaven's Tower,3F Transporter,7.145998,-45.000000,-29.700006
+Heaven's Tower,Before Kamiko's Room,-0.450000,-49.000000,38.880001
+Heaven's Tower,In Kamiko's Room,0.089422,-67.500000,44.011467
+Heaven's Tower,Secret Passage,25.063835,-61.499981,69.077972
+Heaven's Tower,Kamiko's Telescope,-6.064868,-66.000000,49.766647
+Heaven's Tower,Kamiko's Bed,6.122887,-65.201607,51.090214
+Heaven's Tower,Lighting in Kamiko's Room,0.002234,-70.716736,57.736626
+Windurst Woods,Windurst Waters Warp,106.332275,-5.000000,-135.812408
+Windurst Waters,Cooking Guild,-116.548592,-2.000000,51.081444
+;Grand Duchy of Jeuno
+Port Jeuno,Moghouse,-195.026993,-5.000001,0.007000
+Port Jeuno,AH,-29.320000,8.000000,2.010000
+Port Jeuno,Sauromugue Champaign,51.540001,0.000000,0.530000
+Port Jeuno,Qufim Island,-158.860001,11.400000,96.990005
+Port Jeuno,Bastok Airship,-47.689991,12.000481,-112.919312
+Port Jeuno,Sandoria Terminal,-85.820000,12.000000,117.420006
+Port Jeuno,Sandoria Airship,-90.741974,12.000332,112.326927
+Port Jeuno,Windurst Terminal,13.190001,12.000000,-116.080002
+Port Jeuno,Windurst Airship,16.548492,11.999947,-110.790176
+Port Jeuno,Event Item Place,19.587240,0.000554,-10.216331
+Port Jeuno,Inside Windurst Airship,-5.032221,11.447289,-117.982140
+Port Jeuno,Kazham Terminal,-22.200006,12.000002,117.099998
+Port Jeuno,Kazham Airship,-26.274612,11.999941,110.763756
+Port Jeuno,Event Item Place,19.587240,0.000554,-10.216331
+Lower Jeuno,Moghouse,43.031902,-4.998020,87.337379
+Lower Jeuno,Rolanberry Fields,-109.890007,0.000001,-180.820007
+Lower Jeuno,AH,-20.330000,0.000000,-24.780006
+Lower Jeuno,AH Chamber of Commerce,-33.169720,-0.999187,-12.244390
+Lower Jeuno,Neptune's Spire,17.026918,-0.109994,-5.452150
+Upper Jeuno,Moghouse,48.000000,-5.000000,-80.000000
+Upper Jeuno,Batallia Downs,-104.789993,0.000004,186.550003
+Upper Jeuno,AH,-63.880001,1.000000,18.270000
+Ru Lude Gardens,Moghouse,50.440018,9.969996,-73.189995
+Ru Lude Gardens,Upper Jeuno,0.140000,0.000000,-108.550003
+Ru Lude Gardens,AH,-71.139999,5.590004,-4.540004
+Ru Lude Gardens,Arch Dukes Throne,0.044990,-7.631001,95.621529
+Ru Lude Gardens,Harith (Anima NPC),-3.680901,2.000000,132.943405
+Ru Lude Gardens,Maat,8.781059,3.100000,118.844795
+Ru Lude Gardens,Signet Guard,-2.921314,0.005000,-79.340813
+;Ronfaure
+West Ronfaure,South San d'oria,-124.320000,-62.000000,277.579987
+West Ronfaure,North San d'oria,-165.529999,-62.000000,379.399994
+West Ronfaure,North San d'oria,-163.120010,-62.000000,380.630005
+West Ronfaure,East Ronfaure(North),-17.070000,-49.829998,137.399994
+West Ronfaure,East Ronfaure(South),89.729996,-19.500000,-202.089996
+West Ronfaure,La Theine Plateau,-561.710022,0.000000,-602.480042
+West Ronfaure,Ghelsba Outpost,-733.720032,-64.189995,613.690002
+West Ronfaure,Bostaunieux Oubliette,-714.480042,-38.730000,18.430000
+West Ronfaure,OP,-450.149994,-19.869999,-216.180008
+East Ronfaure,South San d'oria,86.129997,-62.000000,273.859985
+East Ronfaure,West Ronfaure(North),-24.849998,-49.760002,141.270004
+East Ronfaure,West Ronfaure(South),81.580002,-20.000000,-196.419998
+East Ronfaure,King Ramperre's Tomb(West),199.820007,0.000000,-539.900024
+East Ronfaure,King Ramperre's Tomb(East),662.980042,-19.190001,-592.720032
+East Ronfaure,Ranguemont Pass,820.059998,-64.910004,663.849976
+Ghelsba Outpost,Fort Ghelsba,125.727325,-19.827496,179.841492
+Ghelsba Outpost,Yughott Grotto,-2.315191,0.184259,-60.543346
+Fort Ghelsba,Ghelsba Outpost,-162.680695,-19.722624,21.227510
+Fort Ghelsba,Elevator Base,-0.617573,-28.000000,97.661354
+Fort Ghelsba,Elevator Top,8.447533,-52.049999,97.952202
+Fort Ghelsba(J7),Yughott Grotto(K5),231.508240,-43.847961,102.402061
+Fort Ghelsba(H9),Yughott Grotto(H8),9.445004,-19.890615,-108.458725
+Fort Ghelsba,Yughott Grotto(Interior),222.273605,-83.837303,19.007723
+Yughott Grotto,Ghelsba Outpost,-253.848541,-0.328934,-70.576324
+Yughott Grotto(K5),Fort Ghelsba(J7),292.813080,-24.251801,249.044739
+Yughott Grotto(H8),Fort Ghelsba(H9),53.400829,-12.245646,70.834427
+Yughott Grotto,Fort Ghelsba(Interior),275.425354,-40.224525,150.097305
+Yughott Grotto,Horlais Peak(BC),440.356995,-40.000000,169.914108
+Yughott Grotto,Horlais Peak(Hot Spring),437.518311,-39.923927,69.666054
+Horlais Peak,Yughott Grotto(BC),-536.842468,160.163284,-210.720703
+Horlais Peak,Yughott Grotto(Hot Spring),442.466980,-40.109692,69.872200
+King Ramperre's Tomb,East Ronfaure(West),-129.489990,0.000000,257.970001
+King Ramperre's Tomb,East Ronfaure(East),60.880001,7.250000,302.470001
+King Ramperre's Tomb,Jugner Forest (Pond),242.009995,7.410000,341.559998
+King Ramperre's Tomb,Vrtra Entrance,180.449997,7.500000,-301.970001
+King Ramperre's Tomb,Underground,-81.089996,-1.000000,-98.759995
+Bostaunieux Oubliette,Chateau d'Oraguille,99.639999,-24.000000,73.689995
+Bostaunieux Oubliette,Underground,-18.849998,-18.000000,19.859999
+Bostaunieux Oubliette,West Ronfaure,-379.809998,-7.500000,-236.489990
+Bostaunieux Oubliette,sewer syrup - safe drop,-45.785545,1.205158,-340.160492
+Bostaunieux Oubliette,entrance - sewer syrup,-20.299520,0.000000,0.781430
+Bostaunieux Oubliette,Condemned NM - safe drop,154.357651,0.000092,-19.872849
+Bostaunieux Oubliette,Shii NM - safe drop (kinda),53.320721,1.138730,-139.513672
+Bostaunieux Oubliette,Manes NM - safe drop (kinda),98.466255,1.053339,-250.950714
+;Zulkheim
+Selbina,Valkurm Dunes,16.980000,-14.560000,99.830002
+Selbina,Port,27.994944,-2.558582,-46.047626
+Valkurm Dunes,Selbina,60.970001,-2.910000,-151.830002
+Valkurm Dunes,La Theine Plateau,760.690002,-7.740000,409.270111
+Valkurm Dunes,Lufaise Meadows,420.859802,0.000004,-200.089996
+Valkurm Dunes,Gustav Tunnel,-770.530029,-7.600000,20.510000
+Valkurm Dunes,OP Vicinity,141.586945,-7.344244,105.481712
+Valkurm Dunes,OP,139.393982,-6.884865,100.384003
+Valkurm Dunes,OP Tower,133.482269,-18.673492,86.351479
+Valkurm Dunes,Siren Sands,306.071716,4.000000,-156.224304
+Valkurm Dunes,Whitebone Beach,-156.854233,4.000000,-113.858383
+Konschtat Highlands,North Gustaberg,102.540001,-72.239998,-607.530029
+Konschtat Highlands,Gusgen Mines,693.630005,19.910000,211.530014
+Konschtat Highlands,Pashow Marshlands,523.210022,31.290010,751.090027
+Konschtat Highlands,Telepoint(Dem),220.000000,19.100000,300.000000
+Konschtat Highlands,Shattered Telepoint,139.999969,19.104002,219.999969
+Konschtat Highlands,Dimensional Portal,220.000000,19.104002,140.000000
+Konschtat Highlands,On Top of Dem,220.188354,-121.112648,219.903931
+Gusgen Mines,Konschtat Highlands,46.320000,-68.090004,-341.210114
+Gusgen Mines,Oldton Movalpolis,100.550003,-59.880001,-238.470001
+Gusgen Mines,J7 Pond,208.080002,-59.509998,-102.029999
+Gusgen Mines,J9 Pond,169.970001,-39.220001,-21.710012
+Gusgen Mines,Strange Apparatus,220.160004,-39.599998,255.130005
+La Theine Plateau,West Ronfaure,-559.809631,0.110006,686.190002
+La Theine Plateau,Valkurm Dunes,154.979996,31.559999,-760.940002
+La Theine Plateau,Jugner Forest,797.790039,32.000000,-36.930000
+La Theine Plateau,Ordelle Caves(F7),-272.119995,23.680000,98.860001
+La Theine Plateau,Ordelle Caves(H7)Center,-59.410000,30.990000,151.630005
+La Theine Plateau,Ordelle Caves(H10)Bomb Area,60.020000,39.910000,-316.179993
+La Theine Plateau,Telepoint(Holla),420.000000,19.100000,20.000000
+La Theine Plateau,Shattered Telepoint,339.999817,19.104000,-59.999981
+La Theine Plateau,Dimensional Portal,420.000000,19.104002,-140.000000
+La Theine Plateau,ƒeƒŒƒ|ƒCƒ“ƒgSouths‚«Ž~‚èŠRã,501.262115,23.678041,-313.631714
+La Theine Plateau,Stone Monument,334.350281,53.509342,143.004791
+La Theine Plateau,On Top of Holla,419.857635,-121.107666,-59.833458
+Ordelle Caves,La Theine Plateau(F7),-75.385986,0.500027,659.464722
+Ordelle Caves,La Theine Plateau(H7),179.853226,32.500000,598.493713
+Ordelle Caves,La Theine Plateau(H10),-201.352585,-27.500000,-218.650284
+Ordelle Caves,4‚Â‚ÌŒŠŽè‘O,-27.575459,0.390332,13.030565
+Ordelle Caves,Morbolger Area,-99.559982,-27.413893,-221.610809
+;Norvallen
+Batallia Downs,Rolanberry Fields,479.515900,8.000000,-361.469238
+Batallia Downs,Jugner Forest,-441.322784,-8.000011,-241.327423
+Batallia Downs,Beaucedine Glacier ,-493.159241,-36.151360,493.361755
+Batallia Downs,Eldieme Necropolis(D6),-694.540649,-12.500010,173.665833
+Batallia Downs,Eldieme Necropolis(I10),136.848328,11.500010,-376.721069
+Batallia Downs,Eldieme Necropolis(West),-688.960022,-12.250000,168.419998
+Batallia Downs,Eldieme Necropolis(F5),-465.899780,-20.500000,334.167084
+Batallia Downs,Eldieme Necropolis(F-5) ,-456.342712,-20.200006,344.262512
+Batallia Downs,Eldieme Necropolis(G7),-214.442169,-4.500001,133.939972
+Batallia Downs,Eldieme Necropolis(G-7) ,-224.370605,-4.200001,141.802383
+Batallia Downs,Eldieme Necropolis(G8),-225.733810,-20.500000,-66.671722
+Batallia Downs,Eldieme Necropolis(G-8) ,-237.393265,-20.200006,-78.861710
+Batallia Downs,Eldieme Necropolis(H7),-133.953644,-4.500000,-14.708282
+Batallia Downs,Eldieme Necropolis(H-8) ,-121.009232,-4.200001,-1.618895
+Batallia Downs,Eldieme Necropolis(I7),54.481884,3.500011,133.429184
+Batallia Downs,Eldieme Necropolis(South),136.850006,11.500007,-376.720001
+Batallia Downs,Eldieme Necropolis(Formal),165.391403,24.691484,-603.988037
+Batallia Downs,Stone Monument,187.629425,11.727612,-613.650940
+Batallia Downs,??? that disappears,-39.652996,-11.015491,307.705505
+Batallia Downs,Batallia Downs Center,-144.959991,-7.330008,82.010002
+Batallia Downs,On Hill,-401.452881,-23.981730,355.613647
+Eldieme Necropolis,Batallia Downs(D6),-557.502869,-16.250000,101.156876
+Eldieme Necropolis,Batallia Downs(F5),-436.886780,-24.500000,540.404724
+Eldieme Necropolis,Batallia Downs Glacier Side,-446.309784,-24.000000,539.809570
+Eldieme Necropolis,Batallia Downs(G7),-164.164032,-32.750000,259.870728
+Eldieme Necropolis,Batallia Downs(G8),-299.930084,-24.250000,117.986038
+Eldieme Necropolis,Batallia Downs(H7),59.566681,-32.500000,162.547363
+Eldieme Necropolis,Batallia Downs(I7),338.492004,-48.000000,321.015015
+Eldieme Necropolis,Batallia Downs(I10),421.158783,-56.000000,-119.507011
+Eldieme Necropolis,Batallia Downs(South),421.160004,-56.000000,-119.510002
+Eldieme Necropolis,Batallia Downs(Island),441.059784,-47.871994,-299.079529
+Eldieme Necropolis,After Door(Center Area),180.236740,-32.000000,-9.139091
+Eldieme Necropolis,Ribbon Quest,299.622925,-0.250006,20.129967
+Eldieme Necropolis,Skull of Envy Jade,-657.481750,0.000058,212.995590
+Eldieme Necropolis,Skull of Sloth Zircon,-186.876984,0.000056,57.508423
+Eldieme Necropolis,Skull of Pride aquamarine,382.756500,-32.300003,-372.835785
+Eldieme Necropolis,Skull of Gluttony Chrysoberyl,17.049520,-16.300003,339.933685
+Eldieme Necropolis,Skull of Greed Flourite,140.040619,-15.918564,304.040924
+Eldieme Necropolis,Skull of Lust Painite,99.785255,8.068117,-103.906746
+Eldieme Necropolis,Skull of Wrath,-351.009583,0.053527,339.795746
+Eldieme Necropolis,Treasure Coffer 1,182.907440,-0.100000,-101.321320
+Eldieme Necropolis,Treasure Coffer 2,-384.537262,-3.000002,333.481384
+Eldieme Necropolis,Treasure Coffer 3,300.369019,-0.000006,-24.750765
+Eldieme Necropolis,Treasure Coffer 4,299.803131,-0.000004,66.278503
+Eldieme Necropolis,Treasure Coffer 5,182.724533,-0.250000,137.864334
+Eldieme Necropolis,Treasure Coffer 6,110.032845,-32.000000,19.454981
+Eldieme Necropolis,Treasure Coffer 7,41.648521,-28.000004,4.014952
+Eldieme Necropolis,Treasure Coffer 8,161.743622,-28.000004,157.878448
+Eldieme Necropolis,Treasure Coffer 9,180.514252,-32.000000,88.606201
+Eldieme Necropolis,Strange Apparatus,104.645874,0.400022,-180.036591
+Jugner Forest,La Theine Plateau,-583.859558,-5.490004,-438.859772
+Jugner Forest,Davoi,-239.520004,-7.970000,-595.290039
+Jugner Forest,Batallia Downs,583.200012,-5.330000,558.130005
+Jugner Forest,King Ramperre's Tomb,-340.630005,-4.840000,463.519989
+Jugner Forest,Carpenter's Landing Right Side,341.839783,-2.850002,15.120008
+Jugner Forest,Carpenter's Landing(West),-536.630005,3.470000,337.589783
+Jugner Forest,Carpenter's Landing(East),344.429779,-2.680000,11.390000
+Jugner Forest,Fishing Spot,-29.337318,5.807105,336.634521
+Jugner Forest,Near OP,60.369999,0.670007,-7.880000
+Davoi,Jugner Forest,216.217972,-0.008686,-3.871001
+Davoi,Monastic Cavern,57.596321,5.408401,-361.265930
+Davoi,Monastic Cavern(Inner Davoi),93.428001,3.080031,-158.972000
+Davoi,Monastic Cavern(Genkai3),177.297592,4.681526,-239.124023
+Davoi,ƒ^ƒ`ƒWƒƒƒRƒEƒSƒP,-118.241074,-0.326812,-183.193436
+Monastic Cavern,Davoi,37.270000,-15.640000,-380.190002
+Monastic Cavern,Davoi(Inner Davoi),73.590004,-15.030000,-178.489990
+Monastic Cavern,Davoi(Genkai3),203.229996,-15.580000,-259.279999
+Carpenter's Landing,North San d'oria,-479.690002,-5.770000,671.430237
+Carpenter's Landing,Jugner Forest(West),-421.570007,-6.250000,-558.299988
+Carpenter's Landing,Jugner Forest(East),4.870000,-6.370000,-822.109558
+Carpenter's Landing,North Pier,-147.120026,-2.020000,50.950001
+Carpenter's Landing,South Pier,216.270004,-2.020000,-529.520020
+Carpenter's Landing,Waterway 1,20.435505,12.659971,316.616516
+Carpenter's Landing,Waterway 2,143.539993,12.090803,-32.947521
+Carpenter's Landing,Waterway 3,278.819641,12.281930,-465.781128
+Carpenter's Landing,South End,419.522980,-5.024889,-676.815002
+Carpenter's Landing,H-6,-136.983002,-1.968765,60.652996
+Carpenter's Landing,I-9,72.098274,-3.506452,-425.285004
+;Gustaberg
+North Gustaberg,Port Bastok,661.091919,1.731857,314.861328
+North Gustaberg,South Gustaberg(West),-440.790009,39.790001,-272.899841
+North Gustaberg,Konschtat Highlands,-517.990234,39.540001,588.639954
+North Gustaberg,Palborough Mine,497.829834,-34.580009,1173.179810
+North GustabergK-6(West),Oldton MolvalpolisE11(North),448.138489,-3.416150,726.840942
+North GustabergK-6(East),Oldton MolvalpolisE13(South),567.508423,-13.206069,687.259155
+North Gustaberg,OP,-586.813843,40.484554,54.505558
+North Gustaberg,Mountain(G-9),-100.443512,-19.971003,196.856125
+North Gustaberg,Waterfall Mouth,-195.451492,0.320798,447.219910
+North Gustaberg,Basin NPC,-232.414948,41.327473,426.494781
+North Gustaberg,Waterfall Basin,-214.799988,97.801071,464.035645
+North Gustaberg,Stone Monument,-199.634964,96.054733,505.623688
+South Gustaberg,Bastok Mines,578.930237,0.770002,-303.570007
+South Gustaberg,Bastok Markets,259.240112,0.770001,-181.839996
+South Gustaberg,North Gustaberg(East),-1.360000,-0.140000,74.350044
+South Gustaberg,North Gustaberg(West),-441.630005,39.470001,-121.750000
+South Gustaberg,Dangruff Wadi,-599.880005,39.480022,-521.609680
+South Gustaberg,Lighthouse 1F,714.281921,-1.094366,-663.027527
+South Gustaberg,Lighthouse 2F,716.658447,-14.844371,-660.757568
+South Gustaberg,Lighthouse 3F,727.468872,-24.123158,-672.765503
+South Gustaberg,Stone Monument,520.064087,-5.883080,-738.355957
+Zeruhn Mines,Bastok Mines,19.550001,0.010001,4.570001
+Zeruhn Mines,Korroloka Tunnel Gate,-78.880013,-0.070000,20.330000
+Zeruhn Mines,Korroloka Tunnel,-269.510010,16.020000,-20.140011
+Korroloka Tunnel,Zeruhn Mines,459.589844,-40.000000,160.630005
+Korroloka Tunnel,EastAltepa Desert,-499.630005,-20.000000,0.360000
+Korroloka Tunnel,WestAltepa Desert,-521.339966,-30.000000,340.559845
+Palborough Mine,North Gustaberg,3.560000,0.160000,59.560001
+Palborough Mine,1F Elevator,183.839996,1.000005,62.299999
+Palborough Mine,2F Elevator,183.060013,-32.000000,62.490005
+Palborough Mine,Pier(Zeruhn Mines),140.939972,-30.500000,28.059999
+Palborough Mine,Waughroon Shrine,-343.089844,104.699997,-262.479980
+Dangruff Wadi,Strange Apparatus,-490.401611,-3.850000,-100.378883
+Dangruff Wadi,Ledge(E-10),-503.195709,-0.111282,-18.085911
+Dangruff Wadi,Ledge(F-12),-386.113312,-0.130251,-139.770752
+;Derfland
+Rolanberry Fields,Batallia Downs,-41.480026,24.030006,635.330017
+Rolanberry Fields,Crawler's Nest(Front),-381.100006,-29.320000,-790.510010
+Rolanberry Fields,Crawler's Nest(Ledge),-770.037537,-35.693016,-491.111572
+Rolanberry Fields,Crawler's Nest District2,-768.553650,-35.668236,-491.346710
+Rolanberry Fields,Stone Monument,361.910004,-32.000000,-396.519989
+Crawler's Nest,Rolanberry Fields(Front),380.240112,-32.169998,5.510006
+Crawler's Nest,Rolanberry Fields(Ledge),82.729996,-0.270000,380.649994
+Crawler's Nest,First Plaza???,122.880013,-33.149998,-76.209999
+Crawler's Nest,Donut Shaped Plaza,98.259995,-0.889999,-220.190002
+Crawler's Nest,Inner Area near Scorpions,-23.680000,-0.870001,-384.519989
+Crawler's Nest,Crawler Hunter Area,-260.819885,-0.350004,-256.760010
+Crawler's Nest,Strange Apparatus,214.030014,0.400001,-339.970001
+Crawler's Nest,Helm Beetle Camp,-165.603287,-0.175249,-381.857452
+Crawler's Nest,Second Plaza,49.514938,-9.152447,192.120575
+Crawler's Nest,Treasure Coffer 1,-183.398743,-0.117800,-378.074310
+Crawler's Nest,Treasure Coffer 2,-102.613129,-1.427087,-389.810059
+Crawler's Nest,Treasure Coffer 3,-54.513493,-0.326181,229.731964
+Crawler's Nest,Treasure Coffer 4,-90.996765,-0.196381,213.568390
+Crawler's Nest,Treasure Coffer 5,-108.137566,-0.211438,251.836563
+Crawler's Nest,Treasure Coffer 6,-127.617111,-1.527625,368.225311
+Crawler's Nest,Treasure Coffer 7,-150.406860,-0.872337,342.159698
+Pashow Marshlands,Konschtat Highlands,-544.049622,25.000000,-647.549622
+Pashow Marshlands,Beadeaux,578.099976,25.000000,-376.570007
+Pashow Marshlands,Near OP,467.329803,24.080000,417.929810
+Beadeaux,Pashow Marshlands,-296.440002,1.670000,95.680000
+Beadeaux,Inside Tunnel,191.670105,-2.890003,141.130005
+Beadeaux,Treasure Coffer 1,189.935867,41.000000,80.246277
+Beadeaux,Treasure Coffer 2,208.647964,41.092415,85.723625
+Beadeaux,Treasure Coffer 3,265.476318,40.292423,140.688797
+Beadeaux,Treasure Coffer 4,341.429108,24.174986,95.037918
+Beadeaux,Treasure Coffer 5,383.322418,24.054230,143.395523
+Beadeaux,Treasure Coffer 6,424.741302,24.135635,100.867119
+Beadeaux,Treasure Coffer 7,386.051636,24.256105,59.396214
+Beadeaux,Treasure Coffer 8,173.825806,40.216373,15.721108
+Beadeaux,Qulun Dome,403.251190,39.934589,19.956165
+;Sarutabaruta
+West Sarutabaruta,Port Windurst,167.959991,0.000000,-320.970001
+West Sarutabaruta,Windurst Waters,320.130005,-4.000000,-39.950001
+West Sarutabaruta,East Sarutabaruta(North),421.970001,-25.760000,694.820007
+West Sarutabaruta,East Sarutabaruta(South),501.210022,-9.660001,134.429993
+West Sarutabaruta,Inner Horotoro Ruins(I8),223.709991,1.700000,40.230000
+West Sarutabaruta,Outer Horotoro Ruins(F4),-277.640015,-10.050000,659.260010
+West Sarutabaruta,Outer Horotoro Ruins(F11),-339.959991,9.950000,-396.919983
+West Sarutabaruta,Near OP,-10.540000,-12.410000,315.600006
+East Sarutabaruta,Windurst Woods,-125.959999,-4.000000,-520.530029
+East Sarutabaruta,West Sarutabaruta(North),-422.940002,-26.369999,601.460022
+East Sarutabaruta,West Sarutabaruta(South),-341.489990,-9.700000,106.470001
+East Sarutabaruta,Tahrongi Canyon,306.489990,-33.560001,663.619995
+East Sarutabaruta,Inner Horotoro Ruins(J7),395.279999,-6.450000,99.980003
+East Sarutabaruta,Inner Horotoro Ruins(I11),259.589996,-10.050000,-478.019989
+East Sarutabaruta,Outer Horotoro Ruins(H3),-59.639999,-30.049999,757.139954
+Outer Horotoro Ruins,West Sarutabaruta(F11),-581.430054,-9.250000,-632.460022
+Outer Horotoro Ruins,West Sarutabaruta(F-4),-310.559998,-9.500000,861.139954
+Outer Horotoro Ruins,East Sarutabaruta(H-3),420.079987,-8.750000,713.940002
+Inner Horotoro Ruins,West Sarutabaruta(I-8),-199.580002,-10.000000,59.240002
+Inner Horotoro Ruins,East Sarutabaruta(I11),579.980042,-25.000000,-632.859985
+Inner Horotoro Ruins,East Sarutabaruta(J-7),433.949982,-8.750000,178.520004
+Inner Horotoro Ruins,Toramari Canal,-260.470001,9.000000,248.939987
+Inner Horotoro Ruins,After Gate,-260.559998,0.000000,-12.360001
+Giddeus,Monster Signa Plaza,-56.960003,0.680000,-84.000000
+Giddeus,Balgas Dais,-138.170013,-2.960000,-300.100006
+Toramari Canal,Windurst Walls,139.860001,0.030000,130.839996
+Toramari Canal,Inner Horotoro Ruins,-340.339996,8.020000,276.750000
+Toramari Canal,Stermite Area,140.589996,-7.980000,-60.880001
+Toramari Canal,Full Moon Fountain,-261.119995,24.020000,83.639999
+Full Moon Fountain,Toramari Canal,-259.489990,4.060000,-326.779999
+Full Moon Fountain,BC,-302.760010,9.500000,-260.100006
+Toramari Canal,Gitab 1,-306.995575,13.999813,-40.566177
+Toramari Canal,Gitab 2,19.683607,16.000000,87.404686
+;Kolshushu
+Mhaura,Buburimu Penisula,0.640000,-4.000000,119.350082
+Mhaura,Ferry(Inside),8.737784,-2.073934,-0.337193
+Mhaura,Ferry Ticket Entrance(Outside),47.792084,-8.000000,39.435341
+Tahrongi Canyon,East Sarutabaruta,-65.910011,46.400005,-738.250000
+Tahrongi Canyon,Buburimu Penisula,444.470001,-0.070000,-35.849998
+Tahrongi Canyon,Maze of Shakrami,484.379883,45.680000,513.940002
+Tahrongi Canyon,Telepoint(Mea),100.000000,35.149998,340.000000
+Tahrongi Canyon,Shattered Telepoint,179.999939,35.150597,259.999786
+Tahrongi Canyon,Dimensional Portal,260.000000,35.150597,340.000000
+Tahrongi Canyon,Stone Monument,-498.105591,15.650007,372.590088
+Tahrongi Canyon,Top of Mea,180.628204,-104.946571,339.713501
+Buburimu Penisula,Mhaura,186.520004,-1.590000,-223.970001
+Buburimu Penisula,Tahrongi Canyon,-620.609314,-44.680000,157.839996
+Buburimu Penisula,Maze of Shakrami,-356.220001,-41.329998,315.119995
+Buburimu Penisula,Labyrinth of Onzozo,443.790009,18.210012,199.120026
+Buburimu Penisula,Near OP,-481.319885,-31.559999,51.590000
+Buburimu Penisula,Bibiki Bay,-266.394226,20.142750,-334.862671
+Buburimu Penisula,Stone Monument,320.754883,-4.018612,368.722015
+Buburimu Penisula,North Beach,394.086212,16.090961,123.949783
+Buburimu Penisula,K-8 Coast,457.687683,4.776410,-89.183517
+Buburimu Penisula,L-9 On Tower,582.970398,-38.095779,-259.382782
+Buburimu Penisula,K-10Sea Floor,432.695313,26.212852,-343.837280
+Buburimu Penisula,J-10 Remote Island,380.988281,0.945820,-395.966064
+Buburimu Penisula,H-10 Remote Island,45.558052,-0.001690,-371.490784
+Buburimu Penisula,G-10 Sea Floor,-115.882133,26.000000,-481.969055
+Buburimu Penisula,F-10 Sea Floor,-362.552368,26.000000,-352.924225
+Buburimu Penisula,L-10 Desert Island,639.026978,0.000007,-357.432983
+Buburimu Penisula,K-8 Desert Island,521.610168,0.000007,-118.150398
+Buburimu Penisula,L-6 Desert Island(Large),594.826172,0.119651,285.324829
+Buburimu Penisula,L-6 Desert Island(Small),678.463562,0.000007,242.641815
+Buburimu Penisula,J-4 Desert Island,283.312195,0.000007,638.260742
+Maze of Shakrami,Tahrongi Canyon,-364.959686,-10.469995,-182.080002
+Maze of Shakrami,Buburimu Penisula,477.859680,-29.830002,-259.119995
+Maze of Shakrami,Attohwa Chasm,-140.600006,-10.330009,162.880005
+Maze of Shakrami,Tattered Key Door,245.130463,19.893187,-140.749390
+Maze of Shakrami,LeechKing Room,286.207062,20.054750,-194.743271
+Labyrinth of Onzozo,Buburimu Penisula,-58.060001,-19.389999,-286.649994
+Bibiki Bay,Buburimu Penisula,672.880005,-21.059999,911.149109
+Bibiki Bay,Manaclipper Terminal,485.755920,-3.500000,732.580505
+Bibiki Bay,Porgonorgo Shortcut,-393.357910,-3.000068,-387.582001
+Bibiki Bay,Tougher Enemies,147.750000,-37.500000,627.460022
+Bibiki Bay,Inner Tunnel,119.699997,-28.000000,238.289993
+Bibiki Bay,Angler Camp,302.265289,-1.943294,171.765640
+Porgonorgo Isle,Manaclipper Terminal,-398.536560,-3.037817,-413.898285
+Porgonorgo Isle,In front of Boat,-615.925232,-1.544793,-699.885498
+Porgonorgo Isle,Warmachine,-344.827423,-3.273335,-972.142944
+;Aragoneu
+Sauromugue Champaign,Garliage Citadel(Front),-100.867912,-23.156666,-394.919678
+Sauromugue Champaign,Garliage Citadel(Back),263.365204,-0.248962,-368.868225
+Sauromugue Champaign,Stone Monument,80.682205,-0.028342,-188.427216
+Sauromugue Champaign,RNG Job TigerBones,665.389160,-8.486437,-379.966034
+Garliage Citadel,Sauromugue Champaign(Front),-380.009888,-12.000011,395.155212
+Garliage Citadel,Before 1st Banishing Gate,-205.165024,0.000000,218.723923
+Garliage Citadel,After 1st Banishing Gate,-195.498398,0.000000,219.750870
+Garliage Citadel,Before 2nd Banishing Gate,-99.917343,0.000000,89.723213
+Garliage Citadel,After 2nd Banishing Gate,-99.312279,0.000014,74.994354
+Garliage Citadel,Before 3rd Banishing Gate,-98.828812,0.000000,352.499481
+Garliage Citadel,After 3rd Banishing Gate,-100.845863,0.000014,365.263245
+Garliage Citadel,Sauromugue Champaign(Roc),19.615000,-18.000000,438.007782
+Garliage Citadel,Incinerator Entrance,139.953033,-6.000000,123.483414
+Garliage Citadel,Inside Incinerator,139.903336,-6.000000,139.024155
+Garliage Citadel,Serket Area Chest,-346.887421,12.606851,264.345520
+Garliage Citadel,2nd Gate Coffer 1,-178.881607,-3.250004,58.594471
+Garliage Citadel,2nd Gate Coffer 2,-19.970985,6.239883,79.729225
+Garliage Citadel,2nd Gate Coffe 3,9.097706,5.505342,10.397927
+Garliage Citadel,2nd Gate Coffer 4,98.321144,-3.250000,101.512001
+Garliage Citadel,3rd Gate Coffer 1,-124.372261,0.000000,379.224884
+Garliage Citadel,3rd Gate Coffer 2,-21.054457,-3.250014,300.104767
+Garliage Citadel,3rd Gate Coffer 3,21.177855,-9.250000,382.819611
+Meriphataud Mountains,Sanctuary of Zi'Tah,775.739990,-17.930000,619.549011
+Meriphataud Mountains,Near OP,-296.529785,16.990000,416.630005
+Castle Oztroja,Mee Deggi The Punisher,-210.145126,-4.340202,151.101425
+Castle Oztroja,Quu Domi the Gallant,49.615913,-4.198629,-130.892273
+Castle Oztroja,Before Door 1,20.074644,0.247556,-14.461318
+Castle Oztroja,After Door 1,20.834805,0.250006,-8.073520
+Castle Oztroja,Before Door 2,-182.047470,-15.762283,-20.248060
+Castle Oztroja,After Door 2,-191.755386,-15.750011,-19.254759
+Castle Oztroja,Before Door 3,-100.095329,-71.750000,-46.605099
+Castle Oztroja,Code1 for Door 3,-58.925159,-1.566850,-60.573738
+Castle Oztroja,Code2 of Door 3,-60.013950,22.393187,-102.039162
+Castle Oztroja,Code3 for Door 3,-19.587851,-17.559902,19.773046
+Castle Oztroja,After Door 3,-99.822464,-71.750000,-42.135056
+Castle Oztroja,Altar Room(Entrance),-160.323227,24.250000,-139.903183
+Castle Oztroja,Altar Room(Exit),-292.009003,0.250000,181.117996
+Castle Oztroja,After Judgement Key Door,-99.276794,-58.771301,90.830391
+Castle Oztroja,Treasure Coffer 1,-262.089447,-15.750002,-20.520844
+Castle Oztroja,Treasure Coffer 2,-142.405167,-39.750637,-20.026186
+Castle Oztroja,Treasure Coffer 3,-77.065430,-40.202740,-74.670609
+Castle Oztroja,Treasure Coffer 4,-21.070114,-39.726402,-138.643280
+Castle Oztroja,Treasure Coffer 5,-99.137276,-60.000000,-219.136932
+Castle Oztroja,Treasure Coffer 6,-59.784199,-72.776306,-138.564972
+Castle Oztroja,Treasure Coffer 7,-140.067276,-72.700859,-61.274872
+Castle Oztroja,Treasure Coffer 8,-98.312721,-72.750000,-14.827758
+Altar Room,Castle Oztroja(Entrance from),-247.213791,14.254972,-100.158775
+Altar Room,Castle Oztroja(Exit to),-286.834686,0.250018,180.708389
+Altar Room,Magicite,-344.769196,24.827353,43.881001
+Attohwa Chasm,Maze of Shakrami,-164.500000,8.889997,-261.949982
+Attohwa Chasm,Boneyard Gully,-193.199997,-12.400002,338.110016
+Attohwa Chasm,Jakaka(ENM Trigger),-144.799591,7.488792,-249.766541
+Attohwa Chasm,on Parradamo Tor hill,320.230011,-25.530006,-13.400000
+Attohwa Chasm,Luminant 1,236.254944,20.000000,-196.520935
+Attohwa Chasm,Luminant 2,416.782013,20.448622,-157.438919
+Attohwa Chasm,Luminant 3,518.171570,20.103151,-113.931992
+Attohwa Chasm,Luminant 4,319.583710,20.888508,138.477951
+Attohwa Chasm,Luminant 5,191.606003,19.317553,-38.938999
+Attohwa Chasm,Luminant 6,219.578751,19.761845,30.167135
+Boneyard Gully,Attohwa Chasm,-711.158936,20.680000,458.410004
+Boneyard Gully,BC,-616.799988,-1.760016,502.989685
+Garliage Citadel,Gate 2 1,-149.989563,-0.162502,83.536575
+Garliage Citadel,Gate 2 2,-149.881348,-0.515872,116.502731
+Attohwa Chasm,Cradel Of Rebirth,320.865112,-25.556868,-12.940251
+;Fauregandi
+Beaucedine Glacier,Ranguemont Pass,-539.299988,-39.860001,-377.399780
+Beaucedine Glacier,Xarcabard,-247.910919,-79.723724,260.205994
+Beaucedine Glacier,Fei'yin,281.100006,19.969999,569.659180
+Beaucedine Glacier,Batallia Downs,17.330000,-0.450001,-654.230225
+Beaucedine Glacier,Pso'Xja40(H-8 ‚n‚o),-20.013805,-59.097000,-77.797295
+Beaucedine Glacier,Pso'Xja50(J-8 Fei'yin Tower),276.444733,0.563400,-19.994909
+Beaucedine Glacier,Pso'Xja60(H10 Batallia Downs),59.660000,6.950000,-357.130005
+Beaucedine Glacier,Pso'Xja75(F-7 Tower),-340.331787,-99.183990,122.469742
+Beaucedine Glacier,Pso'Xja75(G-9 Side Tower),-162.234879,-39.099823,-219.929993
+Beaucedine Glacier,Pso'Xja75(I-7 Tower),99.870148,-19.341320,123.146904
+Beaucedine Glacier,Near OP,-24.590000,-59.720001,-110.810013
+Beaucedine Glacier,Dark Elemental Spawn 1,-125.992966,-99.983093,62.476002
+Beaucedine Glacier,Dark Elemental Spawn 2,16.647007,-80.000000,162.607986
+Beaucedine Glacier,Dark Elemental Spawn 3,221.778992,-20.064041,233.815964
+Beaucedine Glacier,Dark Elemental Spawn ?1,-131.560272,-21.300606,-391.352264
+Beaucedine Glacier,Dark Elemental Spawn ?2,256.683075,0.653591,385.530823
+Beaucedine Glacier,Dark Elemental Spawn ?3,409.045990,0.100034,385.327789
+Beaucedine Glacier,Luck Rune(H-7),70.783707,-37.745514,148.848419
+Ranguemont Pass,East Ronfaure,-137.909988,3.960012,-322.359680
+Ranguemont Pass,Beaucedine Glacier ,303.799988,-66.300003,258.790009
+Ranguemont Pass,Door Before LVL Cap,-179.949814,4.500012,-161.989990
+Fei'yin,Beaucedine Glacier ,-181.130005,-24.000000,-196.949814
+Fei'yin,Qu'Bia Arena,242.110001,-24.250000,60.070000
+Fei'yin,Cloister of Frost,99.729996,0.000012,278.849884
+Fei'yin,Chest 1,167.208649,-23.902260,-87.506233
+Fei'yin,Chest 2,206.873276,-23.945509,-31.466074
+Fei'yin,Chest 3,123.596092,-23.673344,-46.960030
+Fei'yin,Chest 4,129.322540,-23.795681,43.710674
+Fei'yin,Chest 5,114.190598,-23.542021,80.214081
+Fei'yin,Chest 6,167.005554,-23.617779,119.739845
+Fei'yin,Chest 7,165.975403,-23.569006,201.870819
+Fei'yin,Chest 8,28.669361,-15.972076,127.255699
+Fei'yin,Chest 9,-8.209103,-16.250000,45.823608
+Fei'yin,Chest 10,-42.998611,-15.541897,84.949112
+Fei'yin,Chest 11,-110.769165,-15.918655,30.244055
+Fei'yin,Chest 12,-189.924301,-15.898640,8.784012
+Fei'yin,Chest 13,-166.108231,-15.728710,85.852020
+Fei'yin,Chest 14,-88.697243,-15.750736,160.714691
+Cloister of Frost,Ice Shrine(ZM5),566.859253,0.160006,606.930237
+Pso'Xja75,Beaucedine Glacier (I7),179.970993,-8.000000,240.886002
+Pso'Xja75,Beaucedine Glacier (G9),-240.858002,8.000000,-259.950684
+Pso'Xja75,G9 Tower Warp,-300.179749,45.500000,-180.196609
+Pso'Xja40,Beaucedine Glacier (G8),-179.983414,-8.500000,-82.030174
+Pso'Xja40,Beaucedine Glacier (H8),-179.983093,-8.000010,-79.616974
+Pso'Xja40,The Shrouded Maw,-59.700657,40.000000,9.580130
+Pso'Xja40,Ruins Pso'Xja,-359.287659,48.000046,-219.688156
+The Shrouded Maw,BC Entrance,-300.519348,-2.500000,-258.631714
+The Shrouded Maw,BC Exit,-229.850967,8.029972,-284.741119
+;Valdeaunia
+Xarcabard,Beaucedine Glacier ,596.619446,0.260006,-259.479980
+Xarcabard,Castle Zvahl Bailey Exterior,-433.959686,-46.000000,19.940002
+Xarcabard,Uleguerand Range,-137.027954,-20.823082,113.793213
+Xarcabard,Near OP,208.005676,-23.599543,-201.174103
+Xarcabard,Teleport Vazhl,151.039993,-21.050001,-37.420021
+Xarcabard,Dark Elemental Spawn?1,341.023834,0.222304,-318.586884
+Xarcabard,Dark Elemental Spawn?2,38.804001,-23.921946,-302.924896
+Xarcabard,Dark Elemental Spawn?3,536.239014,0.143400,19.198206
+Xarcabard,Dark Elemental Spawn?4,538.067932,-8.184307,222.871674
+Xarcabard,Dark Elemental Spawn?5,339.249817,-28.198669,298.396423
+Xarcabard,Luck Rune(J-8),577.087097,-0.217510,-15.905725
+Castle Zvahl Bailey,Xarcabard,412.019989,-12.000000,-20.340000
+Castle Zvahl Bailey,Castle Zvahl Keep,-182.130005,-34.169998,20.110004
+Castle Zvahl Bailey,Dark Spark,64.619995,-24.050001,19.750000
+Castle Zvahl Bailey,Treasure Coffer 1,99.091057,-8.000000,178.698822
+Castle Zvahl Bailey,Treasure Coffer 2,97.839241,-8.000000,-136.396027
+Castle Zvahl Bailey,Treasure Coffer 3,-216.007690,-8.000000,-135.003799
+Castle Zvahl Bailey,Treasure Coffer 4,-220.458939,-8.000000,180.265411
+Castle Zvahl Bailey,Treasure Coffer 5,-45.192547,0.045712,21.286242
+Castle Zvahl Bailey,Treasure Coffer 6,-79.795448,0.000000,20.149006
+Castle Zvahl Bailey,Treasure Coffer 7,-59.986134,0.000000,37.732014
+Castle Zvahl Bailey,Treasure Coffer 8,-61.626854,0.000000,2.052600
+Castle Zvahl Keep,Castle Zvahl Bailey,63.060001,0.000000,-19.170000
+Castle Zvahl Keep,Throne Room,-557.500000,-70.099998,59.820000
+Throne Room,Castle Zvahl Bailey,115.010002,-6.100000,-0.750000
+Throne Room,BC,-113.820000,-6.100000,0.550000
+Uleguerand Range,Xarcabard,-300.635406,-41.808563,-604.068054
+Uleguerand Range,Bearclaw Pinnacle(G9 Holy Cow),-202.870026,-5.243855,-60.380024
+Uleguerand Range,Bearclaw Pinnacle(I7 Brothers),80.480247,-193.500000,181.807205
+Uleguerand Range,Bearclaw Pinnacle(H6 Hell Freeze Over),60.764027,-101.500000,440.661987
+Uleguerand Range,Bearclaw Pinnacle(J9 White Rabbit),363.023773,18.802612,-60.651997
+Uleguerand Range,Zebada(ENM Trigger),-307.175415,-40.867035,-569.933838
+Uleguerand Range,Eternal Ice,-306.944489,3.037952,20.447008
+Uleguerand Range,J-9 White RabbitBC Entrance,380.490326,2.126654,-183.409760
+Uleguerand Range,H11 First Cave Entrance,-27.205023,-39.838215,-378.184082
+Uleguerand Range,I11 First Cave Exit,141.941849,-0.074821,-377.766449
+Uleguerand Range,K-9 Second Cave Entrance,538.277283,-20.174391,-101.707077
+Uleguerand Range,L-8 Second Cave Exit,582.032593,-35.854431,-15.855927
+Uleguerand Range,K-6 Third Cave Entrance,459.655151,-83.752129,376.146515
+Uleguerand Range,J-5 Third Cave Exit,333.480286,-99.859077,499.208618
+Uleguerand Range,H-6 Fourth Cave Entrance,-56.585762,-139.829651,379.324860
+Uleguerand Range,G-8 Fourth Cave Exit,-188.739990,-163.853897,421.985382
+Uleguerand Range,H-9 Fifth Cave Entrance,15.469729,-175.746231,-59.395153
+Uleguerand Range,G-7 Camp Spot,-219.791031,-163.793701,262.102814
+Uleguerand Range,Before Bonacon,-141.583206,-176.221786,69.639801
+Uleguerand Range,H-8 Pass during fine weather,2.513923,-176.922638,66.393158
+Uleguerand Range,H-8 Accross weather pass,7.456892,-177.537872,71.917282
+Uleguerand Range,Mountain Top West Cliff,-332.824524,-178.892120,-97.362915
+Uleguerand Range,Mountain Top South West Point,-274.510956,-175.092392,-135.597839
+Uleguerand Range,Cliff Cave Entrance(S),-219.599838,-113.454803,-180.157623
+Uleguerand Range,Cliff Cave Entrance(SE),-229.043991,-30.311459,-227.223862
+Uleguerand Range,Cliff Cave Entrance(SW),-258.278931,-30.342079,-228.079224
+Uleguerand Range,Cliff Cave Entrance(W),-378.964752,-113.533936,-19.771801
+Uleguerand Range,Cliff Cave Entrance(SW),-424.388153,-31.202496,-55.837967
+Uleguerand Range,Cliff Cave Entrance(NW),-427.405304,-30.124308,-29.359806
+Uleguerand Range,MountainWorm,-260.833282,-71.832863,-100.341080
+Uleguerand Range,Map Quest ???,-298.959686,-51.900009,-21.690002
+Uleguerand Range,Salt Exchange,-381.236816,-24.062506,-181.268143
+Uleguerand Range,I-7 Mountain View,107.080467,-301.098938,258.999084
+Uleguerand Range,H-6 Mountain View,41.213539,-234.159149,310.606293
+Bearclaw Pinnacle,Uleguerand Range(G9 Holy Cow),-519.513000,2.500000,-901.115967
+Bearclaw Pinnacle,Uleguerand Range(H7 Brothers),119.995995,-193.500000,659.267029
+Bearclaw Pinnacle,Uleguerand Range(H6 Hell Freezes Over),-795.489014,-101.855843,619.210022
+Bearclaw Pinnacle,Uleguerand Range(J9 White Rabbit),-679.795227,18.500000,-540.367004
+Bearclaw Pinnacle,BC Entrance(Holy Cow),-517.693665,24.564587,-802.663452
+Bearclaw Pinnacle,BC Entrance(Brothers),121.827393,-171.400314,757.050964
+Bearclaw Pinnacle,BC Entrance(Hell Freezes Over),-757.867981,-111.395004,562.608643
+Bearclaw Pinnacle,BC Entrance(White Rabbit),-717.842651,8.594589,-442.662415
+;Qufim
+Qufim Island,Port Jeuno,139.250000,10.600000,-476.960000
+Qufim Island,Lower Delkfuts Tower,-287.290000,-20.000000,319.330000
+Qufim Island,First OP,178.460000,-20.440000,-15.520000
+Qufim Island,OP,-244.240000,-19.110000,300.860000
+Lower Delkfuts Tower,Qufim,459.650000,0.000000,-103.440000
+Lower Delkfuts Tower,Warp to Middle,404.320000,-33.880000,84.140000
+Middle Delkfuts Tower,Lower Delkfuts Tower Warp,-35.280000,-49.880000,84.210000
+Middle Delkfuts Tower,Warp to Upper,-484.630000,-129.880000,84.840000
+Upper Delkfuts Tower,Warp to Middle,-365.020000,-145.880000,84.890000
+Upper Delkfuts Tower,Elevator to Lower,-299.410000,-143.620000,20.680000
+Upper Delkfuts Tower,Tougher Enemies,-352.080000,-159.740000,-36.580000
+Upper Delkfuts Tower,Heaven's Wheel,-363.700000,-178.080000,-43.770000
+;Li'Telor
+Sanctuary of Zi'Tah,Meriphataud Mountains,-460.220001,2.880000,-480.899963
+Sanctuary of Zi'Tah,Ro'Maeve,-242.280014,0.000001,644.910034
+Sanctuary of Zi'Tah,Boyahda Tree,542.059937,5.810001,-581.720032
+Sanctuary of Zi'Tah,Dragon's Aery,179.951996,5.628247,-179.515991
+Sanctuary of Zi'Tah,Near OP,-40.960007,0.720001,-144.750000
+Sanctuary of Zi'Tah,Thunder Shrine(ZM5),234.000000,0.100000,280.010010
+Sanctuary of Zi'Tah,???(Port Bastok Quest),23.057997,0.483377,94.634972
+Ro'Maeve,Sanctuary of Zi'Tah,0.740000,-8.130000,-146.429993
+Ro'Maeve,Hall of the Gods,-0.220000,-32.020004,124.289993
+Ro'Maeve,West After Moon Gate,-187.691956,-5.000000,16.305946
+Ro'Maeve,East Before Moon Gate,185.229416,-5.000000,14.893434
+Hall of the Gods,Ro'Maeve,-0.360000,-0.080002,-177.979996
+Hall of the Gods,Ru'Aun Gardens,0.110000,0.000000,362.529968
+Hall of the Gods,Before Warp,-0.080000,-20.690002,148.419998
+Hall of the Gods,After Warp,0.090000,0.110000,250.690002
+Boyahda Tree,Sanctuary of Zi'Tah,397.160004,5.700000,-59.240005
+Boyahda Tree,Dragon's Aery,-139.259995,5.720001,202.709991
+Boyahda Tree,Cloister of Thunder,95.310013,-13.810000,-221.209991
+Boyahda Tree,Gobbue Area,-61.369999,-19.330000,17.570000
+Cloister of Thunder,Boyahda Tree,517.960022,-16.200003,540.290039
+Dragon's Aery,Boyahda Tree,-60.509998,-1.160001,-41.470001
+Dragon's Aery,Sanctuary of Zi'Tah,118.376984,-9.911757,140.567963
+;Kuzotz
+Rabao,WestAltepa Desert,-22.730009,8.580000,-125.229996
+Rabao,Nomad Moogle,-3.120000,8.000000,9.920000
+Rabao,AH,128.500000,8.000000,54.309998
+Rabao,Secret Place,93.945404,-3.410121,0.141188
+EastAltepa DesertE-9,WestAltepa Desert(West),-334.007233,5.051689,-172.523041
+EastAltepa DesertI-6,WestAltepa Desert(East),227.031982,-10.882151,266.880890
+EastAltepa DesertJ-8,Korroloka Tunnel,468.275909,-10.745449,-26.468842
+EastAltepa DesertK-7,Quicksand Caves 1,499.863617,2.199219,145.240402
+EastAltepa DesertH-8,Quicksand Caves 2,63.935123,2.251539,-19.942732
+EastAltepa DesertH10,Quicksand Caves 3,19.840698,10.199219,-265.156281
+EastAltepa DesertH-8,Cloister of Tremors,19.845308,2.247902,-64.092125
+EastAltepa Desert,Near OP,-256.210114,8.500000,-254.120026
+EastAltepa Desert,Telepoint Altep,-61.940018,3.950000,224.899994
+EastAltepa Desert,Height where oaisis is seen,-203.502304,-8.000000,1.426760
+WestAltepa Desert,Rabao,422.230011,7.800000,358.200012
+WestAltepa Desert,EastAltepa Desert(East),412.769348,-2.618846,11.663153
+WestAltepa Desert,EastAltepa Desert(South),-118.840012,-0.150002,-501.619995
+WestAltepa Desert,Korroloka Tunnel,694.207581,-2.839495,-68.497108
+WestAltepa Desert,Kuftal Tunnel Entrance,-20.480000,15.950000,438.570007
+WestAltepa DesertH-9,Quicksand Caves 5,-173.837173,10.398438,-342.054413
+WestAltepa DesertJ-9,Quicksand Caves 6,180.108185,10.199220,-225.232376
+WestAltepa DesertJ-7,Quicksand Caves 7,186.007416,10.398439,18.458935
+WestAltepa DesertD12,Quicksand Caves 8,-740.102966,-9.746571,-704.580994
+WestAltepa DesertD10,Quicksand Caves 9,-826.128906,2.321946,-421.817474
+WestAltepa DesertG-5,Quicksand Caves 10,-334.455627,10.199219,299.556305
+WestAltepa DesertF-6,Quicksand Caves 11,-414.009399,10.398439,178.272354
+WestAltepa DesertF-6,Quicksand Caves 12,-497.677887,10.398438,133.867950
+WestAltepa DesertG-9,Quicksand Caves 13,-298.072418,10.398438,-253.884094
+WestAltepa DesertD11,Quicksand Caves 14,-786.184814,2.398442,-537.828918
+WestAltepa DesertI-6,Altepa Gate,-20.108669,12.199222,134.449219
+WestAltepa DesertI-6,Altepa Gate Inner,-19.904587,12.199222,140.877625
+WestAltepa DesertI-8,Ruby Column,60.003998,8.500002,-107.997993
+WestAltepa DesertG-9,Topaz Column,-259.999878,8.000751,-348.006012
+WestAltepa DesertD10,Emerald Column,-771.999023,-0.001718,-459.998901
+WestAltepa DesertF-6,Sapphire Column,-499.997925,8.000504,227.998978
+WestAltepa DesertH-9,Cermet Headstone,-104.193954,10.596663,-216.753555
+WestAltepa Desert,On Mountain,-213.872406,-13.464506,-18.317331
+WestAltepa Desert,South Cliff,600.212524,-1.073774,-132.211990
+WestAltepa Desert,Cliff (no return),566.129456,16.518200,-183.983429
+WestAltepa Desert,Desert of,408.976746,16.413136,-340.467682
+WestAltepa Desert,East Altepa near cliff,358.606842,-12.166603,-84.805099
+Quicksand Caves,EastAltepa Desert(H8),617.250000,-8.000000,-379.260010
+Quicksand Caves,EastAltepa Desert(J7),939.630005,-16.000000,-357.760010
+Quicksand Caves,WestAltepa Desert(J7),327.610016,-7.010004,59.639996
+Quicksand Caves,WestAltepa Desert(J9),179.780014,-8.020001,-146.899994
+Quicksand Caves,WestAltepa Desert(D12),-738.890015,-16.000000,-521.830017
+Quicksand Caves,Cloister of Tremors,578.960022,9.139999,-493.589874
+Quicksand CavesK11,‡KWestAltepa Desert Altepa Gate,-58.243999,-16.000000,263.476013
+Quicksand CavesF-8,Antican Legatus,-256.338348,1.280284,376.620789
+Quicksand Caves,Mithra and Crystal,-501.899872,21.040009,-412.660004
+Cloister of Tremors,EastAltepa Desert(H9),-636.000000,-14.820004,-499.270111
+Cloister of Tremors,Quicksand Caves,-581.539978,1.020004,-565.460022
+;Vollbow
+Cape Terrigan,Gustav Tunnel,-219.900000,0.270000,-324.100000
+Cape Terrigan,Valley of Sorrows(South),230.880000,-0.810000,-181.620000
+Cape Terrigan,Valley of Sorrows(North),315.640000,0.370000,-61.760000
+Cape Terrigan,Gustav Tunnel,260.670000,8.000000,436.810000
+Cape Terrigan,Cloister of Gales,-294.010000,-10.210000,538.780000
+Cape Terrigan,Near OP,-188.810000,7.770000,-64.000000
+Cape Terrigan,Manticore Area,-300.530000,-7.540000,512.770000
+Valley of Sorrows,Cape Terrigan(South),45.250000,0.000000,-141.690000
+Valley of Sorrows,Cape Terrigan(North),-231.500000,-0.790000,-18.590000
+Gustav Tunnel,WestAltepa Desert,-20.010000,-20.290000,-242.030000
+Gustav Tunnel,Valkurm Dunes,279.330000,-50.000000,99.760000
+Gustav Tunnel,Tougher Enemies,-61.100000,-10.000000,-124.730000
+Cape Teriggan,Valley of Sorrows TOD HaX,249.283005,-10.319535,-39.979000
+;Elshimo Lowlands
+Kazham,Yuhtunga Jungle,-51.740005,-10.000000,-107.560005
+Kazham,Nomad Moogle,16.309999,-8.000000,-85.360001
+Kazham,AH,-117.769997,-10.000005,-46.040001
+Kazham,Airship Dock,-4.318399,-2.500000,12.413469
+Norg,Sea Serpents Grotto,230.959991,-26.620008,336.540009
+Norg,Nomad Moogle,-48.889999,-1.310005,44.000000
+Norg,Before Pirate,-79.925835,0.152532,9.731326
+Yuhtunga Jungle,Kazham,-239.620026,0.420000,530.330017
+Yuhtunga Jungle,Yhoator Jungle(South),107.040001,8.620006,-458.029846
+Yuhtunga Jungle,Yhoator Jungle(North),118.860001,8.300000,98.120003
+Yuhtunga Jungle,Ifrit's Cauldron,419.770111,20.300001,478.919983
+Yuhtunga Jungle,Near OP,-242.989990,0.000005,-398.070007
+Yuhtunga Jungle,(F-7)Blue Rafflesia,-470.910004,1.220000,220.509995
+Yuhtunga Jungle,(H10)Blue Rafflesia,-153.870026,0.750000,-221.929993
+Yuhtunga Jungle,(I12)Blue Rafflesia,47.809998,1.040005,-501.309845
+Yuhtunga Jungle,‰Š‚ÌStone Monument(ZM5),492.879883,21.000000,302.260010
+Yuhtunga Jungle,‰Î‚Ì‚È‚é–Ø‚Ìƒcƒ‹,-101.510002,6.770000,-90.099998
+Sea Serpents Grotto,Norg,-60.526619,-0.274651,412.177673
+Sea Serpents Grotto,Silver Beastcoin Door,280.000000,17.050001,-100.000000
+Sea Serpents Grotto,Within Silver Beastcoin Door,304.349701,27.467302,235.592911
+Sea Serpents Grotto,Gold Beastcoin Door,60.000011,7.049999,-80.000000
+Sea Serpents Grotto,Before Gold Beastcoin Door,59.863873,10.863094,-83.559982
+Sea Serpents Grotto,Within Gold Beastcoin Door,-262.406616,48.203217,-345.167023
+Sea Serpents Grotto,Before Mythril Beastcoin Door,35.330830,10.340921,23.385138
+Sea Serpents Grotto,Within Mythril Beastcoin Door,-355.288788,15.474996,-103.159630
+Sea Serpents Grotto,Mythril Beastcoin Door,40.000004,7.099998,20.012011
+Sea Serpents Grotto,After Sahagin Door,100.160454,0.940964,34.112797
+Sea Serpents Grotto,Abyss Sahagin Room,102.813377,0.846326,-187.131927
+Sea Serpents Grotto,Gold Beastcoin Door(Storage Room),-125.028984,47.567749,-334.777924
+Sea Serpents Grotto,Novv The White (NM) sn,-25.259411,19.946987,-179.559555
+;Elshimo Uplands
+Yhoator Jungle,Yuhtunga Jungle(South),-478.779999,8.300003,-499.760010
+Yhoator Jungle,Yuhtunga Jungle(North),-357.290009,8.330000,138.550003
+Yhoator Jungle,Temple of Uggalepih(Front),299.879883,-4.000000,-626.149780
+Yhoator Jungle,Temple of Uggalepih(East),346.339905,-10.000000,-225.199997
+Yhoator Jungle,Temple of Uggalepih(East Interior),346.339905,-10.000000,-167.860001
+Yhoator Jungle,Temple of Uggalepih(South),65.450012,-10.000000,-505.309906
+Yhoator Jungle,Temple of Uggalepih(South Interior),8.070000,-10.000000,-506.079987
+Yhoator Jungle,Den of Rancor,381.529907,8.300002,81.440002
+Yhoator Jungle,Ifrit's Cauldron(West),-99.000000,0.110000,254.320007
+Yhoator Jungle,Ifrit's Cauldron(East),103.450012,0.240000,343.279999
+Yhoator Jungle,Near OP,201.089996,0.000003,-79.279999
+Yhoator Jungle,Telepoint Yhoat,-280.940002,0.600000,-144.160004
+Temple of Uggalepih,Yhoator Jungle(Front),179.630005,-8.000003,40.799999
+Temple of Uggalepih,Yhoator Jungle(East),238.000000,-8.000000,179.750000
+Temple of Uggalepih,Yhoator Jungle(East Interior),196.970001,-16.010000,300.019989
+Temple of Uggalepih,Yhoator Jungle(South),60.430000,-8.000000,78.870003
+Temple of Uggalepih,Yhoator Jungle(South Interior),-59.629997,-8.000003,82.769997
+Temple of Uggalepih(K7),Den of Rancor(G4),9.300000,7.540000,15.020000
+Temple of Uggalepih(L9),Den of Rancor(K9),431.670013,7.770000,214.630005
+Temple of Uggalepih,Tonberry Hate Reset,60.462059,0.010901,-150.752335
+Temple of Uggalepih,Before Guardian Door,-61.910000,-0.209999,-100.390007
+Temple of Uggalepih,After Guardian Door,-56.490005,-0.010000,-100.310013
+Temple of Uggalepih,Room to get paintbrush of souls,60.180000,0.000000,20.570000
+Temple of Uggalepih,Before Painbrush Door,-48.139996,0.000003,-20.080000
+Temple of Uggalepih,After Paintbrush Door(Den of Rancor),-27.309999,2.250003,20.030006
+Temple of Uggalepih,Carby Mitts NM,-32.331432,-24.500000,24.795845
+Den of Rancor,Yhoator Jungle,259.640015,-14.000000,319.869904
+Den of Rancor,Temple of Uggalepih(J7),-36.829998,6.670003,21.280006
+Den of Rancor(G4),Temple of Uggalepih(K7),20.520000,6.110000,38.029999
+Den of Rancor(K9),Temple of Uggalepih(L9),458.690002,-13.889998,238.370026
+Den of Rancor,Sacrificial Chamber(BC),-101.930000,46.000000,53.189999
+Den of Rancor,Hakutaku Area,51.940014,26.240007,-298.410004
+Den of Rancor,Flame of Rancor,-78.769997,15.440001,-0.830003
+Den of Rancor,Before Lantern Area(ZM4),-60.740005,46.020000,31.480000
+Den of Rancor,Kazham Quest Flame of Rancor,118.560005,15.490003,-318.479980
+Sacrificial Chamber,Den of Rancor(BC),318.049988,0.000003,341.250000
+Ifrit's Cauldron,Yuhtunga Jungle,-419.329895,30.849998,229.729996
+Ifrit's Cauldron,Yhoator Jungle(West),99.880013,0.050001,-322.479980
+Ifrit's Cauldron,Yhoator Jungle(East),300.690002,16.000000,-81.800003
+Ifrit's Cauldron,I10,21.800001,20.160000,-104.390007
+Ifrit's Cauldron,Cloister of Flames,-60.296001,50.721340,105.965996
+Ifrit's Cauldron,Treasure Coffer 1,-20.962910,-2.002092,-70.694176
+;Tu'Lia
+Ru'Aun Gardens,(H12)Hall of the Gods,-0.370000,-55.230000,-639.470000
+Ru'Aun Gardens,(H11)After first warp,0.010000,-34.110000,-472.150000
+Ru'Aun Gardens,(F-7)Before Blue Warp,-343.950000,-24.620000,170.150000
+Ru'Aun Gardens,(F-7)After Blue Warp,-359.780000,-24.110000,192.870000
+Ru'Aun Gardens,(F-8)Before Blue Warp,-378.160000,-24.620000,64.190000
+Ru'Aun Gardens,(F-8)After Blue Warp,-405.070000,-24.110000,55.680000
+Ru'Aun Gardens,(F-9)Before Blue Warp,-268.190000,-24.620000,-274.060000
+Ru'Aun Gardens,(F-9)After Blue Warp,-295.580000,-24.110000,-282.810000
+Ru'Aun Gardens,(G-5)Before Blue Warp,-55.580000,-24.620000,379.400000
+Ru'Aun Gardens,(G-5)After Blue Warp,-72.280000,-24.110000,402.130000
+Ru'Aun Gardens,(G10)Before Blue Warp,-165.510000,-30.620000,-350.830000
+Ru'Aun Gardens,(G10)After Blue Warp,-132.140000,-24.110000,-394.330000
+Ru'Aun Gardens,(H-5)Before Blue Warp,55.700000,-24.620000,379.410000
+Ru'Aun Gardens,(H-5)After Blue Warp,72.270000,-24.110000,402.200000
+Ru'Aun Gardens,(I10)Before Blue Warp,165.660000,-30.620000,-351.190000
+Ru'Aun Gardens,(I10)After Blue Warp,132.300000,-24.110000,-394.330000
+Ru'Aun Gardens,(J-6)Before Blue Warp,343.390000,-24.620000,170.360000
+Ru'Aun Gardens,(J-6)After Blue Warp,360.040000,-24.110000,192.650000
+Ru'Aun Gardens,(J-7)Before Blue Warp,378.120000,-24.620000,64.040000
+Ru'Aun Gardens,(J-7)After Blue Warp,404.480000,-24.110000,55.570000
+Ru'Aun Gardens,(J-9)Before Blue Warp,267.900000,-24.620000,-274.400000
+Ru'Aun Gardens,(J-9)After Blue Warp,294.700000,-24.110000,-282.650000
+Ru'Aun Gardens,(H-9)Shrine of Ru'Avitau(Front),0.770000,-45.010000,-109.630000
+Ru'Aun Gardens,(J-8)Shrine of Ru'Avitau(L11),318.240000,-8.000000,-103.380000
+Ru'Aun Gardens,(E-8)Ve'Lugannon Palace(C-8),-431.630000,-24.000000,-14.020000
+Ru'Aun Gardens,(F-6)Ve'Lugannon Palace(D-3),-339.630000,-24.000000,263.680000
+Ru'Aun Gardens,(F-9)Ve'Lugannon Palace(D12),-355.580000,-24.000000,-241.730000
+Ru'Aun Gardens,(G-5)Ve'Lugannon Palace(F-4),-146.900000,-24.000000,404.530000
+Ru'Aun Gardens,(I-5)Ve'Lugannon Palace(J-4),147.310000,-24.000000,405.100000
+Ru'Aun Gardens,(J-6)Ve'Lugannon Palace(L-3),339.450000,-24.000000,263.880000
+Ru'Aun Gardens,(J-9)Ve'Lugannon Palace(M12),356.430000,-24.000000,-240.460000
+Ru'Aun Gardens,(K-8)Ve'Lugannon Palace(M-8),429.720000,-24.000000,-14.430000
+Ru'Aun Gardens,(H-4)La'Loff Ampitheater(AAHM),0.510000,-43.260000,568.440000
+Ru'Aun Gardens,(E-7)La'Loff Ampitheater(AAMR),-540.200000,-43.260000,175.360000
+Ru'Aun Gardens,(K-7)La'Loff Ampitheater(AAEV),540.910000,-43.260000,175.610000
+Ru'Aun Gardens,(F11)La'Loff Ampitheater(AATT),-334.490000,-43.260000,-459.460000
+Ru'Aun Gardens,(J11)La'Loff Ampitheater(AAGK),333.850000,-43.260000,-459.960000
+Ru'Aun Gardens,(J-5)Genbu,253.940000,-70.020000,516.230000
+Ru'Aun Gardens,(E-9)Suzaku,-509.830000,-70.020000,-268.370000
+Ru'Aun Gardens,(L-8)Seiryu,568.750000,-70.020000,-82.290000
+Shrine of Ru'Avitau(H12),Ru'Aun Gardens(Front),-39.960000,-1.750000,-234.360000
+Shrine of Ru'Avitau(L11),Ru'Aun Gardens(J8),354.140000,-1.750000,-159.490000
+Ve'Lugannon Palace(D-3),Ru'Aun Gardens(F-6),-320.480000,-24.000000,420.750000
+Ve'Lugannon Palace(C-8),Ru'Aun Gardens(E-8),-397.390000,-24.000000,21.470000
+Ve'Lugannon Palace(D12),Ru'Aun Gardens(F-9),-360.460000,-24.000000,-258.880000
+Ve'Lugannon Palace(F-4),Ru'Aun Gardens(G-5),-139.450000,-24.000000,398.700000
+Ve'Lugannon Palace(J-4),Ru'Aun Gardens(I-5),139.610000,-24.000000,399.480000
+Ve'Lugannon Palace(L-3),Ru'Aun Gardens(J-6),317.850000,-24.000000,419.740000
+Ve'Lugannon Palace(M-8),Ru'Aun Gardens(K-8),398.200000,-24.000000,19.110000
+Ve'Lugannon Palace(L12),Ru'Aun Gardens(J-9),359.500000,-24.000000,-260.770000
+Ve'Lugannon Palace,Treasure Coffer,114.030000,16.000000,380.320000
+;Movalpolis
+Oldton Movalpolis*E11(North),North GustyK-6(West),-300.128082,-5.596744,-99.651619
+Oldton Movalpolis*E13(South),North GustyK-6(East),-318.143616,8.125010,-260.068756
+Oldton Movalpolis*D-4,Gusgen Mines,-372.562012,-10.257915,462.225006
+Oldton Movalpolis*J-8,Newton E6,69.855377,8.125008,139.627426
+Oldton Movalpolis*K10,Newton E-8,139.339005,8.119011,-8.666007
+Oldton Movalpolis*I12,Newton C11,-5.992923,8.125004,-220.305374
+Oldton Movalpolis*J11,Newton E10,99.947556,15.790337,-153.678055
+Oldton Movalpolis*K11,Newton E9,194.498779,8.125007,-139.900711
+Oldton Movalpolis*L10,Newton F-9(Bridge),243.492569,11.993011,-60.048340
+Oldton MovalpolisE13,NPC ENM,-294.154388,8.000000,-263.307281
+Oldton MovalpolisK10,NPC Ahriman's tears,161.593933,12.000000,-56.484863
+Oldton MovalpolisK11,Inside Lever,185.456940,15.994864,-81.411659
+Oldton MovalpolisK10,North Lever[,173.030396,7.075884,-45.392742
+Oldton MovalpolisK10,South Lever[,197.097733,7.269398,-72.424561
+Oldton MovalpolisH11,Koblakiq,-66.006134,22.834236,-117.269455
+Oldton MovalpolisG-8,Iron Box,-139.262039,8.000000,157.504501
+Newton Movalpolis,MinePoint 1,-41.590343,16.125000,220.628357
+Newton Movalpolis,MinePoint 2,64.261124,19.269310,187.997971
+Newton Movalpolis,MinePoint 3,-102.547882,15.698666,91.945831
+Newton Movalpolis,MinePoint 4,25.808445,15.516660,21.267708
+Newton Movalpolis,MinePoint 5,36.481941,15.834867,-22.588638
+Newton Movalpolis,MinePoint 6,109.157043,20.165751,-103.622826
+Newton Movalpolis,MinePoint 7,63.758102,15.558873,-135.846649
+Newton Movalpolis,MinePoint 8,-68.124756,15.125152,-144.408249
+Newton Movalpolis,MinePoint 9,-102.242607,16.042028,-192.429077
+Newton Movalpolis,MinePoint 10,-20.399221,15.906691,-93.835022
+Newton Movalpolis*E-6,Oldton J-8,-261.856781,12.888215,181.309006
+Newton Movalpolis*E-8,Oldton K10,-219.707840,11.776790,45.301350
+Newton Movalpolis*C11,Oldton I12,-356.944000,8.125008,-179.598999
+Newton Movalpolis*E10,Oldton J11,-259.831482,12.398748,-125.087433
+Newton Movalpolis*E-9,Oldton K11,-195.335205,8.287035,-59.784027
+Newton Movalpolis*F-9,Oldton L10(Bridge),-140.689987,12.769403,-19.491377
+Newton MovalpolisM-9,Mineshaft 2716 Entrance,451.730713,28.225340,-19.906187
+Newton MovalpolisJ-6,Mineshaft 2716 Exit,217.000595,19.939394,185.739395
+Newton MovalpolisF10,Furnace Hatch,-146.423813,15.507165,-86.060631
+Newton MovalpolisI-8,Furnace Hatch,89.384399,15.512643,67.230614
+Newton MovalpolisJ-9,Furnace Hatch,145.150467,19.525913,-5.557169
+Newton MovalpolisK-8,Furnace Hatch,230.146545,15.522973,28.289679
+Newton MovalpolisI-9,NPC,123.545876,19.989309,-60.796108
+Oldton Movalpolis,Scrawled Writing,-148.301056,8.000000,-252.648682
+Oldton Movalpolis,Scrawled Writing 2,-19.301569,12.125000,-118.212997
+Oldton Movalpolis,Scrawled Writing 3,-20.375130,8.125000,15.896399
+;Tavnazia
+Tavnazian Safehold,Lufaise Meadows(North),9.550000,-29.059998,154.419998
+Tavnazian Safehold,Lufaise Meadows(South),14.005000,-25.079866,118.613998
+Tavnazian Safehold,Misareaux Coast(North),-47.109997,-30.410000,157.339996
+Tavnazian Safehold,Misareaux Coast(South),-36.440010,-27.599998,118.020004
+Tavnazian Safehold,Phomiuna Aqueducts,27.680000,-12.000000,44.940010
+Tavnazian Safehold,Sealion's Den,0.830000,-7.140000,-39.700001
+Tavnazian Safehold,Nomad Moogle,-110.046021,-26.966360,55.317566
+Tavnazian Safehold,AH,-107.169998,-26.900002,-49.119991
+Tavnazian Safehold,Delivery NPC,-74.108643,-20.000000,-63.744358
+Tavnazian Safehold,HomePoint,-1.249999,-27.906555,107.424995
+Tavnazian Safehold,1st Floor Near Bridge,0.452511,-22.750000,-22.608532
+Tavnazian Safehold,Jonette(cookbook),-69.077164,-11.114647,10.603932
+Tavnazian Safehold,Morangeart(ENM Tigger),-75.336128,-23.739994,-28.928118
+Tavnazian Safehold,Justinius,77.550499,-34.000000,70.304031
+Tavnazian Safehold,Yurim,82.449173,-25.000000,3.027824
+Tavnazian Safehold,Resauchamet,102.279633,-41.000000,57.305550
+Tavnazian Safehold,Despachiaire,110.401871,-40.014847,-83.667831
+Sealion's Den,Tavnazian Safehold,598.649841,132.830002,797.220032
+;Tavnazian Archipelago
+Lufaise Meadows,Tavnazian Safehold(North),-596.850647,-0.583544,-98.619972
+Lufaise Meadows,Tavnazian Safehold(South),-398.443787,-0.309192,-222.477921
+Lufaise Meadows,Misareaux Coast,458.849884,8.000010,5.520013
+Lufaise Meadows,Valkurm Dunes,-210.060013,-16.190002,289.349884
+Lufaise Meadows,OP Warp,-548.079163,-6.116535,-54.554565
+Lufaise Meadows,Amaltheia ???,597.760010,-0.350000,20.559999
+Lufaise Meadows,J-6 Blueblade Fell,199.259781,-22.690926,347.040588
+Misareaux Coast,Tavnazian Safehold(North),599.205017,0.000000,20.143024
+Misareaux Coast,Tavnazian Safehold(South),638.830994,23.929886,-220.493988
+Misareaux Coast,Lufaise Meadows,567.619446,-15.891548,282.270111
+Misareaux Coast,Riverne Site(Gate),-259.713989,-30.104813,277.235992
+Misareaux Coast,Riverne Site(Inside),-543.480286,-29.500000,358.070038
+Misareaux Coast,Sacrarium,55.297699,-24.000000,739.869446
+Misareaux Coast,Qufim Island,-118.120003,-32.000000,219.229980
+Phomiuna Aqueducts,Tavnazian Safehold,-60.000000,-24.100000,67.750000
+Phomiuna Aqueducts,2nd Floor West Side Passage,-73.550003,-24.000000,90.410011
+Phomiuna Aqueducts,2nd FLoor West Side Passage,101.699997,-24.000000,59.590000
+Phomiuna Aqueducts,2nd Floor East Side Passage,-88.480003,-24.000000,60.329998
+Phomiuna Aqueducts,Ornate Door,-220.070007,-16.000000,79.629997
+Sacrarium,Misareaux Coast,-220.074997,-16.000000,79.633995
+Sacrarium,Northeast Room,99.701530,-2.000000,110.279579
+Sacrarium,North Room,60.199982,-2.000000,109.015457
+Sacrarium,NorthWest Room,19.557095,-2.000000,109.861084
+Sacrarium,Southeast Room,100.087883,-2.000000,-107.976074
+Sacrarium,South Room,59.890236,-2.000000,-111.021324
+Sacrarium,Southwest Room,20.050097,-2.000000,-110.218262
+Sacrarium,Cookbook???1,89.927040,-2.000000,-99.549049
+Sacrarium,Cookbook???2,10.671277,-2.000000,-100.729752
+Sacrarium,Cookbook???3,109.504509,-2.000003,98.764069
+Sacrarium,Cookbook???4,11.226686,-6.364851,99.220963
+Sacrarium,PM4-3 Before Door,99.639999,-0.070000,52.420021
+Sacrarium,Before two key door,-226.320007,19.500000,-706.339966
+Sacrarium,Treasure Crate,47.219990,0.000000,11.409994
+Sacrarium,Treasure Crate,16.382332,-4.721126,-6.499412
+Sacrarium,Dark Water,-162.549500,12.000005,-19.524647
+Riverne Site A01,Before 1st Warp (Bomb Area),-504.740112,-8.500000,-383.529785
+Riverne Site A01,BC,-504.686981,-8.500008,-383.139526
+Riverne Site A01,???(Rivernewort),-514.126648,-6.719872,-407.331482
+Riverne Site B01,Misareaux Coast,-516.861145,0.035709,688.356140
+Riverne Site B01,???(Rivernewort),-517.136841,0.095630,689.198669
+Riverne Site B01,After 1st Warp,-189.339996,35.570000,673.668945
+Riverne Site B01,Before 2nd Warp(BC),540.799988,-0.500016,-421.949982
+Riverne Site B01,After 2nd Warp,-50.860001,-0.450000,-423.989685
+Riverne Site B01,After 2nd Warp(BC),-468.389496,4.290005,770.039978
+Riverne Site B01,Before 3rd Warp(BC),-332.349884,36.400005,773.148804
+Riverne Site B01,After 3rd Warp(BC),-505.230011,-20.500000,575.809448
+Riverne Site B01,Before 4th Warp(BC),-500.110016,-0.500000,661.410034
+Riverne Site B01,After 4th Warp(BC),-503.816986,-20.500000,579.285583
+Riverne Site B01,Monarch Linn Warp,-538.244629,-20.500000,498.387299
+Monarch Linn,BC Riverne B1 Front Exit,-19.503216,0.000000,617.145447
+Monarch Linn,BC Exit,-19.809999,0.320171,571.868958
+Monarch Linn,BC Misareaux Coast Rear Exit,-20.127859,-0.003644,616.375977
+;Promyvion
+Hall of Transference,Holla,-266.760010,-0.633709,280.057983
+Hall of Transference,Dem,-267.194000,-40.633698,-280.019012
+Hall of Transference,Mea,280.066010,-80.633713,-67.096001
+Promyvion Holla,Start,92.032997,0.000002,80.380013
+Promyvion Holla,La Theine Plateau,80.158112,-1.000000,80.101540
+Promyvion Holla,Spire of Holla,179.564102,0.000000,-21.364080
+Promyvion Holla,BC Exit,-0.103000,-119.250000,352.915009
+Promyvion Dem,Start,185.891006,0.000000,-52.331001
+Promyvion Dem,Spire of Dem,20.447756,0.000019,61.825729
+Promyvion Dem,Memory Flux,221.739990,-0.010000,340.100006
+Promyvion Mea,Start,-93.267998,0.000004,170.748978
+Promyvion Mea,Spire of Mea,100.363579,0.000015,181.680405
+Promyvion Vahzl,Level 1 Start,-14.743999,0.036159,-119.735977
+Promyvion Vahzl,Level 2 Start,130.825424,0.000000,314.229980
+Promyvion Vahzl,Level 3 Start,434.045990,0.000002,-267.927917
+Promyvion Vahzl,Level 4 Start,258.613007,-0.624657,141.882004
+Promyvion Vahzl,Level 5 Start,43.313992,0.000002,-13.000000
+Promyvion Vahzl,Level 5 BC,-146.994568,-0.050944,-58.997955
+Promyvion Vahzl,Level 3 Memory Flux,142.106735,0.055713,-73.135361
+Promyvion Vahzl,Level 4 Memory Flux,452.852203,0.106201,127.855003
+Promyvion Vahzl,Level 5 Memory Flux,-376.179932,0.165046,154.699814
+Spire of Holla,Promyvion Holla,-0.039000,-2.000017,-293.739014
+Spire of Holla,BC Exit,-1.721657,-119.250000,354.847321
+Spire of Dem,Promyvion Dem,0.097481,-2.000000,292.395752
+Spire of Dem,BC Entrance,0.288347,-2.000015,245.893723
+Spire of Dem,BC Exit,-0.059000,-119.250000,-352.970001
+Spire of Mea,Promyvion Mea,-1.038999,-2.000000,293.640015
+Spire of Mea,BC Entrance,0.082441,-2.000011,247.407150
+Dead Spot,Promy holla,-147.137085,0.000000,-97.460655
+;Lumoria
+Al'Taieu(H12),Sealion's Den,-31.799026,0.000000,-618.699646
+Al'Taieu(H11),Grand Palace of Hu'Xzoi,-0.256523,-10.000000,-462.345886
+Al'Taieu(H11),Grand Palace of Hu'Xzoi (Exit),0.175285,-10.000000,-437.440552
+Al'Taieu(H-4),Temenos,0.000000,0.000000,718.112000
+Al'Taieu(E-6),Apollyon,-561.999878,0.000022,443.999786
+Al'Taieu(K-6),Apollyon,556.000000,0.000000,442.000000
+Al'Taieu(D-7),Dem Crag,-635.599060,-0.999687,163.800034
+Al'Taieu(H-5),Holla Crag,25.299026,-1.000000,579.000000
+Al'Taieu(L-8),Mea Crag,654.200012,-1.000000,100.700005
+Al'Taieu(D-7),AuroralUpdraft,-641.077026,-1.140915,284.291779
+Al'Taieu(E-8),AuroralUpdraft,-520.999878,0.000013,4.500006
+Al'Taieu(I-6),AuroralUpdraft,197.898941,-1.248844,440.999786
+Al'Taieu(K-7),AuroralUpdraft,399.998688,-1.083151,232.500000
+Al'Taieu(L-8),AuroralUpdraft,601.783020,0.000000,36.745029
+Al'Taieu(D10),RubiousCrystal,-682.588501,-4.006401,-221.760269
+Al'Taieu(H13),RubiousCrystal,-0.006830,-4.006401,-737.463196
+Al'Taieu(L10),RubiousCrystal,682.598267,-4.006402,-221.710999
+Al'Taieu(E-5),RubiousCrystal??(Dismount),-422.261475,-4.006402,580.337524
+Al'Taieu(K-5),RubiousCrystal??(Dismount),421.961304,-4.006402,580.629456
+Al'Taieu(D-9),???,-693.430237,-1.684055,-62.039993
+Al'Taieu(L-8),???,705.880859,-1.000022,22.058979
+Al'Taieu(F11),???,-278.386780,0.000019,-463.110962
+Al'Taieu(K12),???,431.522003,-0.913533,-603.502991
+Al'Taieu(E-8),Map Quest NPC1,-420.613586,0.000023,-123.114731
+Al'Taieu(E-8),Map Quest NPC2,-425.591583,0.000024,-142.041473
+Al'Taieu(E10),Map Quest NPC3,-527.571472,0.000001,-289.274414
+Al'Taieu(D10),Map Quest NPC4,-590.369141,-0.602214,-313.094788
+Al'Taieu(D11),Map Quest NPC5,-587.512085,-0.673352,-409.776917
+Al'Taieu(F11),Map Quest NPC6,-326.637787,-1.182279,-406.637085
+Al'Taieu(F12),Map Quest NPC7,-374.729767,0.000024,-509.027283
+Al'Taieu(F12),Map Quest NPC8,-324.397034,-0.959601,-522.601440
+Al'Taieu(G12),Map Quest NPC9,-144.951752,0.000024,-574.088745
+Al'Taieu(H12),Map Quest NPC10,-26.515059,0.000024,-633.825562
+Al'Taieu(H12),Map Quest NPC11,4.844221,0.000000,-566.545959
+Al'Taieu(H12),Map Quest NPC12,25.979496,0.000024,-474.951080
+Al'Taieu(H13),Map Quest NPC13,11.372602,0.000010,-677.935730
+Al'Taieu(H12),Map Quest NPC14,87.638573,0.000000,-583.345947
+Al'Taieu(J13),Map Quest NPC15,301.684021,0.000000,-660.465210
+Al'Taieu(I11),Map Quest NPC16,207.797241,0.000000,-452.819794
+Al'Taieu(K10),Map Quest NPC17,534.985229,0.000002,-231.476776
+Al'Taieu(L10),Map Quest NPC18,568.279968,-1.160525,-186.808868
+Grand Palace of Hu'Xzoi,Al'Taieu,-20.003544,0.625000,-363.074158
+Grand Palace of Hu'Xzoi,Garden of Ru'Hmet,-19.948030,-0.049999,-270.622131
+Grand Palace of Hu'Xzoi,Right Door Entrance,-355.659454,0.000000,259.991821
+Grand Palace of Hu'Xzoi,Left Door Exit,-43.741119,0.500000,-320.107880
+Grand Palace of Hu'Xzoi,Gate of the Gods,-20.074619,-0.050016,-281.342926
+Grand Palace of Hu'Xzoi,Teleporter,-99.911018,0.000000,531.191406
+Grand Palace of Hu'Xzoi,Teleporter,-190.588242,0.000000,100.029091
+Grand Palace of Hu'Xzoi,Teleporter,-510.513885,0.000024,99.997498
+Grand Palace of Hu'Xzoi,Teleporter,-739.950684,0.000024,392.479736
+Grand Palace of Hu'Xzoi,Teleporter,-487.596985,0.000021,699.916321
+Grand Palace of Hu'Xzoi,Map Quest NPC1,-271.632507,0.000021,139.844818
+Grand Palace of Hu'Xzoi,Map Quest NPC2,-112.710571,0.000024,460.155853
+Grand Palace of Hu'Xzoi,Map Quest NPC3,-284.322388,0.000004,140.109207
+Grand Palace of Hu'Xzoi,Map Quest NPC6,-604.585022,0.000000,139.983353
+Grand Palace of Hu'Xzoi,Map Quest NPC8,-405.743927,0.000024,540.065674
+Grand Palace of Hu'Xzoi,Map Quest NPC9,-379.997681,0.000021,724.905029
+Grand Palace of Hu'Xzoi,Escort Start 1,-259.981384,0.000000,446.563782
+Grand Palace of Hu'Xzoi,Escort End 1,-260.001953,0.000024,471.194733
+Grand Palace of Hu'Xzoi,Escort Start 4,-539.946655,0.000024,270.505005
+Grand Palace of Hu'Xzoi,Escort End 4,-410.293823,0.000024,500.037781
+Grand Palace of Hu'Xzoi,Teleporter,740.379456,0.000024,530.757690
+Grand Palace of Hu'Xzoi,Teleporter,650.042847,0.000000,100.035095
+Grand Palace of Hu'Xzoi,Teleporter,327.371765,0.000024,99.944298
+Grand Palace of Hu'Xzoi,Teleporter,99.968475,0.000000,391.340088
+Grand Palace of Hu'Xzoi,Teleporter,351.957184,0.000011,700.004211
+Grand Palace of Hu'Xzoi,Map Quest NPC4,419.745819,-6.000024,191.591400
+Grand Palace of Hu'Xzoi,Map Quest NPC5,217.753983,0.000024,116.174950
+Grand Palace of Hu'Xzoi,Map Quest NPC7,352.052887,0.000017,353.709808
+Grand Palace of Hu'Xzoi,Map Quest NPC10,405.486206,0.000000,699.853149
+Grand Palace of Hu'Xzoi,NM Room,420.091278,0.000024,407.236969
+Grand Palace of Hu'Xzoi,Escort Start 2,791.191650,0.000000,460.152313
+Grand Palace of Hu'Xzoi,Escort End 2,539.898621,0.000000,447.856781
+Grand Palace of Hu'Xzoi,Escort Start 3,540.030212,0.000001,272.169739
+Grand Palace of Hu'Xzoi,Escort End 3,299.940399,0.000024,271.186432
+Grand Palace of Hu'Xzoi,Goblin Footprint,-24.812006,0.625000,-359.041901
+Garden of Ru'Hmet,1F(H-10)Grand Palace of Hu'Xzoi,-419.864685,0.000009,237.971207
+Garden of Ru'Hmet,1F(H-9)Central Tower Teleporter,-420.000000,-1.750000,380.000000
+Garden of Ru'Hmet,2F(H-8)Central Tower Teleporter,-420.000000,-1.750000,-420.000000
+Garden of Ru'Hmet,3F(H-9)Central Tower Teleporter,420.000000,-1.750000,380.000000
+Garden of Ru'Hmet,2F(I-9)Central Tower Warp NorthEast,-380.500000,0.000000,-441.682007
+Garden of Ru'Hmet,2F(H-9)Central Tower Warp NorthWest,-459.500000,0.000000,-441.681000
+Garden of Ru'Hmet,2F(I-9)Central Tower Warp SouthEast,-380.750000,0.000000,-478.367676
+Garden of Ru'Hmet,2F(H-9)Central Tower Warp SouthWest,-459.250000,0.000000,-478.367706
+Garden of Ru'Hmet,2F(G-7)Central Tower Warp,-488.907959,-0.000002,-338.875000
+Garden of Ru'Hmet,2F(I-8)Central Tower Warp,-351.135986,0.000001,-379.625000
+Garden of Ru'Hmet,1F(G-5)HUM Teleporter,-503.385620,-2.375000,699.769043
+Garden of Ru'Hmet,2F(G-4)HUM Teleporter,-503.631805,-2.375000,-99.920074
+Garden of Ru'Hmet,2F(I-4)HUM Teleporter,-335.979828,-2.375000,-100.402336
+Garden of Ru'Hmet,3F(I-5)HUM Teleporter,503.998688,-2.375004,699.999023
+Garden of Ru'Hmet,3F(G-5)HUM Teleporter,335.763763,-2.375000,699.896179
+Garden of Ru'Hmet,4F(G-4)HUM Teleporter,336.000000,-2.375000,-100.000000
+Garden of Ru'Hmet,4F(H-4)HUM  Ebon Panel,423.256348,-5.750004,-99.999985
+Garden of Ru'Hmet,1F(L-6)ELV Teleporter,-99.999001,-2.375000,543.999023
+Garden of Ru'Hmet,2F(L-6)ELV Teleporter,-99.999001,-2.375000,-256.000000
+Garden of Ru'Hmet,2F(L-9)ELV Teleporter,-99.999001,-2.375000,-423.998871
+Garden of Ru'Hmet,3F(L-9)ELV Teleporter,739.999023,-2.375000,375.998871
+Garden of Ru'Hmet,3F(L-6)ELV Teleporter,739.999023,-2.375000,543.999023
+Garden of Ru'Hmet,4F(L-6)ELV Teleporter,740.000000,-2.375000,-256.000000
+Garden of Ru'Hmet,4F(L-8)ELV  Ebon Panel,739.999878,-5.750004,-342.916534
+Garden of Ru'Hmet,1F(G12)TAR Teleporter,-495.998840,-2.375003,99.999001
+Garden of Ru'Hmet,2F(G12)TAR Teleporter,-495.998840,-2.375003,-699.999023
+Garden of Ru'Hmet,2F(E12)TAR Teleporter,-664.000000,-2.375000,-700.000000
+Garden of Ru'Hmet,3F(E12)TAR Teleporter,175.998978,-2.375004,99.999001
+Garden of Ru'Hmet,3F(G12)TAR Teleporter,343.998840,-2.375000,99.999001
+Garden of Ru'Hmet,4F(G12)TAR Teleporter,343.998840,-2.375000,-699.999023
+Garden of Ru'Hmet,4F(F12)TAR  Ebon Panel,256.760193,-5.750000,-699.999023
+Garden of Ru'Hmet,1F(D-9)MIT Teleporter,-739.999023,-2.375000,375.998901
+Garden of Ru'Hmet,2F(D-9)MIT Teleporter,-739.999023,-2.375000,-423.998901
+Garden of Ru'Hmet,2F(D-6)MIT Teleporter,-740.000000,-2.375000,-256.000000
+Garden of Ru'Hmet,3F(D-6)MIT Teleporter,99.999001,-2.375000,543.999023
+Garden of Ru'Hmet,3F(D-9)MIT Teleporter,99.999001,-2.375000,375.998901
+Garden of Ru'Hmet,4F(D-9)MIT Teleporter,99.999001,-2.375000,-423.998901
+Garden of Ru'Hmet,4F(D-7)MIT  Ebon Panel,100.000008,-5.750003,-336.990601
+Garden of Ru'Hmet,1F(K12)GAL Teleporter,-175.998978,-2.375005,99.999001
+Garden of Ru'Hmet,2F(K12)GAL Teleporter,-175.998978,-2.375005,-699.999023
+Garden of Ru'Hmet,2F(I12)GAL Teleporter,-343.998840,-2.375003,-699.999023
+Garden of Ru'Hmet,3F(I12)GAL Teleporter,495.998840,-2.375000,99.999001
+Garden of Ru'Hmet,3F(K12)GAL Teleporter,663.999023,-2.375000,99.999001
+Garden of Ru'Hmet,4F(K12)GAL Teleporter,664.000000,-2.375000,-700.000000
+Garden of Ru'Hmet,4F(J12)GAL  Ebon Panel,577.083069,-5.750005,-699.999939
+Garden of Ru'Hmet,1F(I-9)Particle Gate,-379.135406,0.000000,379.473969
+Garden of Ru'Hmet,2F(H-8)Particle Gate,-420.057159,0.000000,-379.678802
+Garden of Ru'Hmet,2F(H-7)ParticleGate(Dawn Sign),-420.341614,0.000011,-280.975830
+Garden of Ru'Hmet,2F(H10)ParticleGate(Dusk Sign),-419.588684,0.000009,-558.944824
+Garden of Ru'Hmet,3F(H-8)ParticleGate(BattleField),420.063782,0.000007,398.903687
+Garden of Ru'Hmet,3F(H-7)LuminousConvergence,420.260834,-0.625000,518.764893
+Garden of Ru'Hmet,1F(H-9)Central Tower Map Quest NPC,-414.692932,0.000003,357.927673
+Garden of Ru'Hmet,1F(G-7)Central Tower Map Quest NPC,-528.174561,1.875004,475.726074
+Garden of Ru'Hmet,1F(I10)Central Tower Map Quest NPC,-328.049988,-6.000004,267.366028
+Garden of Ru'Hmet,2F(H-7)Central Tower Map Quest NPC,-409.825684,0.000012,-326.587585
+Garden of Ru'Hmet,2F(H-8)Central Tower Map Quest NPC,-429.978027,0.000000,-419.951843
+Garden of Ru'Hmet,3F(H-4)HUM Map Quest NPC,420.023834,-6.000000,746.382935
+Garden of Ru'Hmet,3F(L-7)ELV Map Quest NPC,745.605652,0.000002,487.723846
+Garden of Ru'Hmet,3F(F12)TAR Map Quest NPC,251.210968,-6.000004,75.189018
+Garden of Ru'Hmet,3F(D-8)MIT Map Quest NPC,112.084969,0.000003,403.882813
+Garden of Ru'Hmet,3F(J12)GAL Map Quest NPC,580.039917,-6.000000,110.167000
+Empyreal Paradox,Garden of Ru'Hmet(H-9),540.025024,-1.750000,-499.981903
+Empyreal Paradox,Goblin Footprint,531.960815,-0.125002,-516.611694
+Empyreal Paradox,Transcendental Radiance,540.041687,-1.183326,-597.684814
+;Limbus
+Temenos,Al'Taieu(H-4 Holla Area),579.500000,0.625000,4.451000
+Temenos,Matter Diffusion Module,579.902283,-2.375000,104.065964
+Apollyon,Al'Taieu(E-6 Dem Area),-640.161499,-1.000001,-641.252075
+Apollyon,Al'Taieu(K-6 Mea Area),639.675659,-1.000000,-640.516357
+Apollyon,NE entrance,604.769409,-0.300002,-599.639404
+Apollyon,SE entrance,468.000000,0.000000,-625.000000
+ApollyonNW,Apollyon NW fafnir,-621.726135,0.000000,505.336121
+;Mordion Gaul (GM Jail)
+Mordion Gaul,Jail Cell 1,258.850000,10.000000,-222.600000
+Mordion Gaul,Jail Cell 2,258.850000,10.000000,218.190000
+Mordion Gaul,Jail Cell 3,260.340000,10.000000,652.670000
+Mordion Gaul,Jail Cell 4,-180.850000,10.000000,652.190000
+Mordion Gaul,Jail Cell 5,-180.850000,10.000000,219.190000
+Mordion Gaul,Jail Cell 6,-180.850000,10.000000,-225.190000
+Mordion Gaul,Jail Cell 7,258.850000,-403.000000,-222.600000
+Mordion Gaul,Jail Cell 8,258.850000,-403.000000,218.190000
+Mordion Gaul,Jail Cell 9,260.340000,-403.000000,652.670000
+Mordion Gaul,Jail Cell 10,-180.850000,-403.000000,652.190000
+Mordion Gaul,Jail Cell 11,-180.850000,-403.000000,219.190000
+Mordion Gaul,Jail Cell 12,-180.850000,-403.000000,-225.190000
+;West Aht Urhgan
+Aht Urhgan Whitegate,Auction House,-129.681656,-6.000000,79.421204
+Aht Urhgan Whitegate,Al Zahbi,-145.788879,2.000011,0.115457
+Aht Urhgan Whitegate,Mog House,-99.737503,0.000000,-80.554863
+Aht Urhgan Whitegate,North Port,11.860353,0.000002,122.366776
+Aht Urhgan Whitegate,Ratihb (COR Starter),75.552162,-6.000000,-131.990143
+Aht Urhgan Whitegate,Waoud (BLU Starter),67.816376,-6.000000,-75.132065
+Aht Urhgan Whitegate,Iruki-Waraki (PUP Starter),96.388412,-6.000000,-28.510399
+Aht Urhgan Whitegate,Alchemists' Guild,-79.837173,-6.000001,130.348160
+Aht Urhgan Whitegate,Wajaom Woodlands,-21.634375,0.000001,-67.385132
+Aht Urhgan Whitegate,Bhaflau Thickets,-22.444006,0.000000,67.914513
+Al Zahbi,Aht Urhgan Whitegate,113.130074,-2.200001,40.412197
+Al Zahbi,Culinarians' Guild,55.193932,-6.000000,12.410892
+Al Zahbi,Weavers' Guild,67.279175,-6.000000,-57.185471
+Al Zahbi,Goldsmiths' Guild,45.925941,0.000002,-46.184120
+Al Zahbi,Mog House,39.895195,0.000000,-58.891216
+Al Zahbi,Blacksmiths' Guild,-33.408222,0.000000,-34.009167
+Al Zahbi,Boneworkers Guild,-57.001587,-6.000000,-92.021927
+Al Zahbi,Tanners Guild,-67.841484,-6.000000,-103.594154
+Al Zahbi,Auction House,-30.507813,0.000000,-120.267365
+Al Zahbi,Bhaflau Thickets,-66.863152,2.000000,102.071228
+Al Zahbi,Wajaom Woodlands,-106.351883,2.000007,68.071739
+Bhaflau Thickets,Al Zahbi,423.568268,-8.295630,-33.812206
+Bhaflau Thickets,Aydeewa Subterrane (I-7),460.051483,-14.179367,385.387360
+Bhaflau Thickets,Mamook,-50.943047,-13.262070,-619.664368
+Bhaflau Thickets,Mamool Ja Staging Point,-180.065475,-10.675005,-756.622498
+Bhaflau Thickets,Aht Urhgan Whitegate ,570.403992,-10.487854,139.959991
+Bhaflau Thickets,Alzadaal Undersea Ruins,20.904333,-29.497459,588.114746
+Bhaflau Thickets,Aydeewa Subterrane (G-7),99.953873,-14.719155,382.486725
+Bhaflau Thickets,Havlung (F-8),19.436647,-15.126358,300.935394
+Bhaflau Thickets,Wajaom Woodlands,300.710663,-10.675000,3.532395
+Alzadaal Undersea Ruins,Aquarim Room,449.459869,0.050014,-579.405701
+Alzadaal Undersea Ruins,Bhaflau Thickets,325.000000,-4.000028,-621.500000
+Aht Urhgan Whitegate,Set Home Points,-79.886559,0.000000,-106.066551
+;Arrapago Islands
+Nashmau,Docks,12.393126,2.000005,-93.141823
+Nashmau,Caedarva Mire (East),30.731421,-6.000000,-23.505186
+Nashmau,Caedarva Mire (West),-30.166199,-6.000003,23.843676
+Nashmau,Caedarva Mire (North),15.631449,-6.000000,68.999336
+Caedarva Mire,Nashmau (H-10),25.963997,6.546000,-699.382874
+Caedarva Mire,Nashmau (H-9),499.771790,-15.683352,-37.112129
+Caedarva Mire,Arrapago Reef (I-6),179.300461,-15.089483,-55.432743
+Caedarva Mire,Arrapago Reef (K-5),500.027527,-29.186382,109.359070
+Caedarva Mire,Arrapago Reef (H-8),-540.768250,-1.109844,69.674835
+Caedarva Mire,Lamian fang key ???,126.785027,-7.615553,-185.332535
+Caedarva Mire,Azouph Staging Point,539.879517,-18.542786,-431.052429
+Caedarva Mire,Dvucca Isle Staging Point,-299.535736,-6.600799,-85.158699
+Arrapago Reef,Ilruse Atoll Staging Point,5.146000,-7.928703,579.999023
+Arrapago Reef,Caedarva Mire (J-6),600.002991,-7.746522,378.683929
+Arrapago Reef,Caedarva Mire (G-9),-418.333466,-15.779976,-79.555649
+Arrapago Reef,??? PUP Quest,460.287781,-7.249979,63.966492
+Arrapago Reef,??? COR Quest,466.580688,-10.000000,111.750038
+Arrapago Reef,Caedarva Mire (I-11),499.554047,-15.662857,-38.926338
+Arrapago Reef,"The die is Cast" ???,310.465057,-3.807731,169.373032
+lrusi Atoll(Golden Figurehead),Cursed Chest #1,339.399872,-15.622803,-1.593533
+lrusi Atoll(Golden Figurehead),Cursed Chest #2,323.064636,-10.000000,-57.571926
+lrusi Atoll(Golden Figurehead),Cursed Chest #3,365.307861,-15.756207,-137.917816
+lrusi Atoll(Golden Figurehead),Cursed Chest #4,422.333221,-10.250031,-128.261993
+lrusi Atoll(Golden Figurehead),Cursed Chest #5,494.929474,-7.188484,108.178009
+lrusi Atoll(Golden Figurehead),Cursed Chest #6,541.935120,-6.430450,159.061005
+lrusi Atoll(Golden Figurehead),Cursed Chest #7,578.455200,-15.320297,94.423836
+lrusi Atoll(Golden Figurehead),Cursed Chest #8,361.508759,-3.597801,103.462425
+lrusi Atoll(Golden Figurehead),Cursed Chest #9,232.921417,-1.980587,-14.821670
+lrusi Atoll(Golden Figurehead),Cursed Chest #10,449.793060,-8.884812,126.706970
+lrusi Atoll(Golden Figurehead),Cursed Chest #11,472.785187,-7.233532,221.412308
+lrusi Atoll(Golden Figurehead),Cursed Chest #12,534.764771,-3.629086,250.596481
+lrusi Atoll(Golden Figurehead),Ancient Lockbox,380.165344,-7.801079,63.064621
+;Halvung Territory
+Halvung,Wajaom Woodlands,118.099365,-30.000000,-379.985626
+Halvung,Wajaom Woodlands (N-5),517.973999,-10.011082,259.258331
+Halvung,Mount Zhayolm (D-11)Dead End,-341.152985,-9.999998,-200.503006
+Halvung,Mount Zhayolm (I-7),59.302010,-10.000000,117.918343
+Mount Zhayolm,Halvung (F-9),-148.477905,-10.660419,-173.487045
+Mount Zhayolm,Halvung (K-8),616.702087,-9.730152,65.677406
+Mount Zhayolm,Halvung Staging Ground,660.226624,-27.508263,325.451782
+Mount Zhayolm,Halvung ??? (I-10),392.126282,-13.990387,-255.339584
+;Mamool Ja Savagelands
+Wajaom Woodlands,Bhaflau Thickets,680.718750,-15.500000,220.206909
+Wajaom Woodlands,Aydeewa Subterrane (E-9),-456.191864,-6.844044,-101.117332
+Wajaom Woodlands,Aydeewa Subterrane (I-10),101.199562,-14.585995,-176.331833
+Wajaom Woodlands,Aydeewa Subterrane (D-9),-659.867004,-6.647048,-56.095528
+Wajaom Woodlands,Aydeewa Subterrane (E-10),-575.746643,-14.600573,-220.619888
+Wajaom Woodlands,Aydeewa Subterrane (F-11),-299.346436,-15.244518,-379.785217
+Wajaom Woodlands,Aydeewa Subterrane (I-6),-138.688965,8.881279,118.501984
+Wajaom Woodlands,Aydeewa Subterrane (G-7),-262.696106,-21.464787,331.753784
+Wajaom Woodlands,Engraved Tablet,610.540955,-23.750000,359.747009
+Wajaom Woodlands,Havlung,-820.042664,-23.019258,102.911072
+Wajaom Woodlands,Mamok (D-12),-740.756653,-6.671844,-544.015808
+Wajaom Woodlands,Mamok (E-12),-460.569763,-6.595562,-503.289246
+Aydeewa Subterrane,Blue Pool,514.116455,-32.166107,459.140503
+Aydeewa Subterrane,Bhaflau Thickets (J-7),-117.490997,-17.789228,-298.871002
+Aydeewa Subterrane,Wajaom Woodlands (F-7),-141.751984,8.837333,118.501984
+Mamook,Bhaflau Thickets,317.502991,-5.923571,-339.243988
+Mamook,Wajaom Woodlands (L-10),221.125107,-30.109138,-81.495995
+Mamook,Wajaom Woodlands (K-7),380.029327,-11.697542,432.452881
+Wajaom Woodlands,Leypoint,-205.846237,-8.237473,78.471909
+Wajaom Woodlands,Aydeewa Subterrane (F-10),-303.763123,-22.536158,-179.197891
+Wajaom Woodlands,Mammok (E-14),-541.940796,-23.093918,-781.677979
+Wajaom Woodlands,Aydeewa Subterrane (G-10),-141.553650,-15.155542,-258.258606
+Wajaom Woodlands,Aydeewa Subterrane (K-9),458.785461,-22.554098,-63.882969
+Western Adoulin,Auction House,-79.70473,4,-77.99868
+Western Adoulin,Home Point,-87.49245,4,-30.81632
+Western Adoulin,Mog House,-1.141555,-0.75,-142.0657
+Dynamis - Xarcabard,NM 28 (Horn),577.1133,-9.390829,224.0804
+Dynamis - Xarcabard,NM 27 (Skull),573.1633,-1.927917,17.70404
+Cirdas Caverns [U],Mobs,-104.7752,29.67234,-49.35839
+Western Adoulin,Plasm NPC,61.30502,-0.55,-68.66036
+Western Adoulin,Waypoint (1),6.066262,0,-3.422786
+Dynamis - Xarcabard,NM 29 (Blood),341.5487,-29.5,320.6063
+Dynamis - Xarcabard,NM 30 (Pen),-107.8443,-39.76266,37.04854
+Dynamis - Xarcabard,DL / ADL,-404.1385,-43.35984,20.21111
+Ru'Aun Gardens,Genbu,262.998,-70.01994,515.0128
+Abyssea - Grauberg,Moniter FCs,768.4977,36.71415,557.3759
+Abyssea - Grauberg,Flux 7 / Azdaja,-334.9202,-131.4459,113.1004
+Abyssea - Misareaux,Sirrush,358.8582,16,-433.0463
+Balga's Dais,BC Enterance,299.2214,-124.1244,340.9682
+Foret de Hennetiel,Veil,-430.744,-6.276761,180.7018
+Dragon's Aery,Faf Pit,80.70554,6.907928,38.91792
+Hazhalm Testing Grounds,Entry Gate,489.8535,-226.1,-19.44789
+Beaucedine Glacier,Trail Markings,-282.4447,-39.75165,-419.3433
+Dynamis - Beaucedine,NM,255.4664,-17.4898,-94.42907
+Dynamis - Beaucedine,Mega Boss,281.9192,20.61008,465.8559
+Zhayolm Remnants,Portal,340.5397,-5,-63.41779
+Marjami Ravine,Frontier Station,360.8334,-59.72534,149.8002
+Dynamis - Xarcabard,NMs,37.30622,-23.67326,-109.4443
+Dynamis - Xarcabard,Ramp,21.31891,-24.18922,101.9332
+Port Jeuno,Synergy Furance,-68.14393,0,8.196361
+Foret de Hennetiel,Top of Tree,-427.2997,-18.99026,179.7395
+The Eldieme Necropolis,In Ceiling,284.9128,-39.55377,99.85975
+Behemoth's Dominion,Behemoth/King Behemoth,-264.4143,-19.63661,66.8995
+Valley of Sorrows,Adamantoise/Aspid,-15.80095,0.7755237,0.7002136
+Western Altepa Desert,King Vinegarroon,-222.5728,0.601563,-655.3217
+Southern San d'Oria,Home Point,-96.63211,1,-40.2776
+Monastic Cavern,G3 ???,167.7084,-1.838711,-22.80346
+Qulun Dome,G3 ???,258.5046,37.38771,54.57101
+The Sanctuary of Zi'Tah,RoMeave,-240.9549,0,638.3945
+Maze of Shakhrami,Argus,239.1774,20,-74.8947
+Windurst Woods,Yag Necklace Quest,61.25,-5,238.75
+Giddeus,West Sarutab,-97.02766,-0.2694274,400.1756
+Sea Serpent Grotto,Silver Door,278.8,20,-98.8093
+Sea Serpent Grotto,Norg,-60.55522,1.287191,398.3083
+Sea Serpent Grotto,Jungle,222.5,-24.2516,328
+Valkurm Dunes,Lizard Camp,-352.3712,-7.689405,211.4048
+Bastok Markets,Treant Bulb,-32.8302,-6.824716,-73.87909
+Crawlers' Nest,Main Zone,380,-33.98457,0
+The Eldieme Necropolis,Main Zone,420.035,-56,-119.51
+Southern San d'Oria,Auction House,-0.2733066,1.7,-25.03206
+Pashhow Marshlands,Outpost,468.2902,24.09518,418.7152
+Pashhow Marshlands,Bloodpool Vorax Area,-375.8706,24.4,488.5944
+Pashhow Marshlands,Rolanberry Fields,544.4852,25,697.2545
+Buburimu Peninsula,Mhaura,176.9944,-1.830937,-215.0585
+Sauromugue Champaign,Port Jeuno,-563.5051,0,396.3332
+South Gustaberg,Leaping Lizzy,-323.6612,29.449,-352.3282
+Konschtat Highlands,Valkurm Dunes,-166.6803,71.07894,861.1436
+Batallia Downs,Upper Jeuno,471.8933,7.856762,-164.859
+Qufim Island,Dank EXP,-36.42706,-19.75243,260.6677
+Cape Teriggan,Valley of Sorrows,278.8819,-0.3348616,-63.285
+Garlaige Citadel,Back Exit,19.77471,-18,437.3991
+Garlaige Citadel,Front Entrance,-380.035,-12,398.032
+Tahrongi Canyon,Meriphataud Mountains,-237.3877,50.36463,694.9645
+Sauromugue Champaign,Rolanberry Fields,-470.4176,-0.9391317,209.0842
+Pashhow Marshlands,Konschat Highlands,-543.423,25,-647.55
+Valkurm Dunes,K Highlands,922.2407,0.6053604,-425.9045
+Attohwa Chasm,Worm Party,-54.47036,34,-140.2506
+King Ranperre's Tomb,Tombstone,1.034939,-0.25,-102.1526
+Port Bastok,Zinc Ore Quest,-100.6585,4.649985,29.97739
+Sauromugue Champaign,Meriphataud Mountains,518.0441,-13.51895,-503.9712
+Maze of Shakhrami,Attohwa Chasm,-140.246,-10,160.709
+North Gustaberg,Oldton Movalpolos,454.0661,-4.203646,731.0115
+Yuhtunga Jungle,Sea Serpent Grotto,-636.328,16.38306,-420.062
+Sea Serpent Grotto,Utussemi: Ichi Quest ???,295.276,26.74867,213.043
+Korroloka Tunnel,NIN Job Quest,-213.3542,-10.55879,171.7228
+Gusgen Mines,Far Mining Point,101.743,-41.2814,207.5819
+Eastern Altepa Desert,Korroloka Tunnel,499.839,7.666843,-76.809
+Eastern Altepa Desert,Western Altepa Desert (North),260.09,7.989159,320.454
+Western Altepa Desert,Rabao,419.969,7.994659,359.802
+Western Altepa Desert,Eastern Altepa Desert (North),378.4469,10.18931,-10.65192
+Rolanberry Fields,Pashhow Marshlands,-120.6119,-0.8263385,-926.029
+Outer Ra'Kaznar,Vertical Transit Device,-460.1059,-140.137,27.58658
+Outer Ra'Kaznar,Entwined Roots,-655.7359,-150.1074,-267.0774
+Oldton Movalpolos,Gusgen Mines,-372.562,-10.25797,462.226
+Oldton Movalpolos,North Gustaberg (North),-287.9584,-0.7966036,-100.6348
+Maze of Shakhrami,Tahrongi Canyon,-362.5277,-10.29203,-180.4604
+The Sanctuary of Zi'Tah,Meriphataud Mountains,-458.5837,2.519423,-473.625
+Ordelle's Caves,PLD AF Weapon,-49.79187,0.5177326,3.517789
+Ordelle's Caves,Chests,-20.49179,27.53586,-49.07537
+Ordelle's Caves,Chest Key Mobs,-35.44712,-27.70641,58.61186
+Ordelle's Caves,Main Entrance,-90.59563,0.4623902,659.0015
+Gusgen Mines,Mining Point #0,95.26908,-60.63623,-228.8665
+Gusgen Mines,Mining Point #1,-21.42129,-60.44407,-169.7594
+Gusgen Mines,Mining Point #2,70.62761,-60.38237,-173.0342
+Gusgen Mines,Mining Point #3,100.7226,-41.49674,209.3656
+Crawlers' Nest,Back Zone,84.741,-0.2685477,379.574
+Crawlers' Nest,Giant Shell Bug NM,-23.60874,-8.455128,122.5175
+North Gustaberg,South Gustaburg (East),0.02,-0.01691532,-75.405
+Northern San d'Oria,Eperdur,130.1949,-6.5,96.72702
+Northern San d'Oria,West Ronfaure,-249.1109,7,44.58571
+The Eldieme Necropolis,Holla ??? #0,-54.05857,-10.87989,266.0362
+The Eldieme Necropolis,Holla ??? #3,-461.2778,-0.002961278,424.3074
+The Eldieme Necropolis,Holla ??? #1,-18.70399,0.09458652,61.02583
+Windurst Waters,Aurastery,147.8516,0,155.1241
+Palborough Mines,North Gustaberg,6.153514,0.03941649,59.51154
+Palborough Mines,Boat Docks,139.6154,-30.5,20.06968
+Northern San d'Oria,Port San d'Oria,-128.0952,12,266.6684
+Korroloka Tunnel,Morion Worm #0,291.0017,-10.98916,64.71317
+Korroloka Tunnel,Morion Worm #1,268.9695,-5.108055,94.19998
+Korroloka Tunnel,Morion Worm #2,-45.39028,-5.761642,97.63899
+Korroloka Tunnel,Morion Worm #3,-96.17645,-5.670549,95.28693
+Korroloka Tunnel,Morion Worm #4,-365.9557,-9.734709,-24.58467
+Korroloka Tunnel,Morion Worm #5,-377.6751,-9.643508,-51.64702
+Buburimu Peninsula,Labyinth of Onzozo,445.9958,18.2468,194.5632
+Buburimu Peninsula,Tahrongi Canyon,-614.6245,-43.04296,160.3205
+Castle Oztroja,Meriphataud Mountains,-228.1644,0.25,-19.20748
+The Garden of Ru'Hmet,Faith ??? (Mithra),-689.9338,0,-339.1683
+The Garden of Ru'Hmet,Faith ??? (Tarutaru),-581.3269,0,-649.8455
+The Garden of Ru'Hmet,Faith ??? (Galka),-260.1145,0,-647.7228
+The Garden of Ru'Hmet,Ix'DRK NE ???,-243.0118,5,444.543
+The Garden of Ru'Hmet,Ix'DRK NW ???,-600,5,445
+The Garden of Ru'Hmet,Ix'DRK SE ???,-277.0677,5,244.5972
+The Garden of Ru'Hmet,Ix'DRK SW ???,-560.3948,5,246.9051
+The Garden of Ru'Hmet,Fortitude ??? (N),-420.1535,0,753.4659
+The Garden of Ru'Hmet,Fortitude ??? (SW),-580.0562,0,47.60523
+The Garden of Ru'Hmet,Fortitude ??? (NW),-790.9033,0,460.8109
+The Garden of Ru'Hmet,Fortitude ??? (NE),-49.10492,0,460.131
+The Garden of Ru'Hmet,Fortitude ??? (SE),-260,0,50
+Morimar Basalt Fields,Fronteir Station,448.674,-15.52354,-331.869
+Woh Gates,Kamihr Drifts,319.1852,-20,500.6362
+Windurst Woods,Windurst Walls,-51.8483,-3.573258,84.52075
+Heavens Tower,Kupipi,1.911046,0,30.4437
+Palborough Mines,Waughroon Shrine,113.5233,-39.75585,-140.3723
+Northern San d'Oria,Chateau  d'Oraguille,0.8021174,-1.869565,107.3737
+Ru'Lude Gardens,Upper Jeuno,-0.1999913,0,-104.5195
+Lower Delkfutt's Tower,Middle Delkfutt's Tower,404.7802,-33.88147,83.73487
+Middle Delkfutt's Tower,Lower Delkfutt's Tower,-28,-48.03006,80
+Middle Delkfutt's Tower,Teleport,-44.72618,-81.88147,-43.97486
+Middle Delkfutt's Tower,Upper Delkfutt's Tower,-484.2113,-129.8815,85.53804
+Upper Delkfutt's Tower,Bottom of Stairs,269.0907,19.40004,22.61461
+Lower Delkfutt's Tower,Delkfutt Key Door,347.506,0,20.151
+Lower Delkfutt's Tower,Qufim Island,459.6001,0,-97.51012
+Qulun Dome,Magicite,11.91334,25.8684,-81.6342
+Monastic Cavern,Davoi (Magicite),-43.71799,-16.315,-101.104
+Monastic Cavern,Magicite,-161.3466,-7.826206,6.149287
+Altar Room,Magicite,-344.6734,24.82736,43.87075
+The Eldieme Necropolis,Batallia Downs (3),59.989,-32,160.973
+The Eldieme Necropolis,Downstairs,260.5,0.09458652,41
+Meriphataud Mountains,Tahrongi Canyon,-124.0117,-24.99359,-609.1484
+Garlaige Citadel,Banishing Gale #1,-207.3865,0,219.0429
+The Sanctuary of Zi'Tah,Meriphataud Mountains,-454.6192,1.323739,-460.6297
+Buburimu Peninsula,Maze of Shakhrami,-356.219,-41.33984,314.873
+King Ranperre's Tomb,East Ronfaure (East),57.415,8.129975,300.784
+Gustav Tunnel,Cape Teriggan,-245.9077,-19.97648,-260.0403
+Cape Teriggan,OP,-185.8975,7.828944,-64.65918
+Cape Teriggan,Kuftal Tunnel,-220.388,0,-320.0837
+Kuftal Tunnel,Cape Teriggan,20.37,-18.81625,275.782
+Fei'Yin,Capricious Cassie,-61.11583,0.575826,183.1252
+Castle Zvahl Baileys,Xarcabard,407.6033,-12.01376,-20.31196
+Castle Zvahl Baileys,Castle Zvahl Keep,-181.969,-34,19.995
+Meriphataud Mountains,Sauromugue Champaign,-453.2887,30.38218,657.1732
+Halvung,Mining Point #2,227.7328,13.81187,233.756
+Halvung,Mining Point #3,206.1958,13.742,195.621
+Halvung,Mining Point #4,227.5052,-5.950286,244.9491
+Halvung,Mining Point #5,101.7865,-1.095065,347.1301
+Halvung,Mining Point #1,273.868,2.361959,231.3615
+Halvung,Mining Point #0,150.6572,-10.97635,209.6683
+Eastern Altepa Desert,OP,-253.1711,8.46068,-253.5534
+Rolanberry Fields,Sauromugue Champaign,377.2715,24.6182,475.4188
+The Eldieme Necropolis,Tallow Candle #0,100.2025,7.7,-104.8947
+The Eldieme Necropolis,Tallow Candle #1,139.2429,-16.3,307.5952
+The Eldieme Necropolis,Tallow Candle #2,-347.4742,-0.3,337.2548
+The Eldieme Necropolis,Tallow Candle #3,-656.3392,-0.3,213.9
+The Eldieme Necropolis,Tallow Candle #4,-186.1017,-0.3,56.41064
+The Eldieme Necropolis,Tallow Candle #5,16.27741,-16.3,339.72
+The Eldieme Necropolis,Tallow Candle #6,383.3775,-32.3,-373.3973
+Meriphataud Mountains,Castle Oztroja,744.3176,-32.2,-39.79921
+Caedarva Mire,Logging Point #0,-494.5226,-8.120267,-5.093184
+Caedarva Mire,Logging Point #1,441.5373,-10,-335.0562
+Caedarva Mire,Logging Point #2,-563.2865,-6.25928,56.53024
+Caedarva Mire,Logging Point #3,176.1957,-10,-186.3393
+Caedarva Mire,Logging Point #4,-596.4206,4,-119.697
+Caedarva Mire,Khimaira,817.4905,-11.86788,394.1558
+Caedarva Mire,Alzdaal Undersea Ruins (4),338.6248,6.77284,-702.5999
+Grand Palace of Hu'Xzoi,Temperance NE,-43,-1,460
+Grand Palace of Hu'Xzoi,Temperance SE,-260,-1,43
+Grand Palace of Hu'Xzoi,Temperance N,-420,-1,757
+Grand Palace of Hu'Xzoi,Temperance SW,-580,-1,43
+Grand Palace of Hu'Xzoi,Temperance NW,-797,-1,460
+The Garden of Ru'Hmet,Faith ??? (Hume),-419.7409,0,-152.7879
+The Garden of Ru'Hmet,Faith ??? (Elvaan),-151.9643,0,-340.4173
+Al'Taieu,Sealion's Den,-31.12352,0,-618.0677
+Al'Taieu,Jailer of Hope ???,-691.9575,0,-62.2843
+Mordion Gaol,Jail Cell,-620,11.99055,660
+The Sanctuary of Zi'Tah,Dragon's Aery,189.5724,3.61175,-181.157
+Inner Horutoto Ruins,Mahogany Door (Windy 2-1),-25.374,-0.05000001,20.10999
+Inner Horutoto Ruins,East Sarutabaruta,434.2541,-8.75,179.7934
+Heavens Tower,Windurst Walls,0.2072645,1.817942E-06,-31.70559
+Windurst Walls,Windurst Woods,98.39389,-2.670839,-156.2414
+Ghelsba Outpost,West Ronfaure,100.2013,0.3256094,-35.12004
+Heavens Tower,Vestal Chambers,0.6775339,-49.00003,39.55878
+The Sanctuary of Zi'Tah,The Boyahda Tree,531.5796,3.897404,-578.837
+The Boyahda Tree,Dragon's Aery,-140.008,5.808786,202.715
+The Boyahda Tree,The Sanctuary of Zi'Tah,341.1594,-3.328796,89.59774
+Qufim Island,Misareux Coast,-438.4396,-13.5,339.6458
+Qufim Island,Behemoth's Dominion,-638.6219,18.5,460.5126
+Northern San d'Oria,Moghouse,130.1533,-0.199,-4.692844
+Castle Oztroja,Yagudo High Priest,-98.22176,-55.75,-3.421351
+Mordion Gaol,Jail Cell #1,258.4188,11.96101,-620.1324
+Mordion Gaol,Jail Cell #2,258.6737,11.96381,220.1188
+Mordion Gaol,Jail Cell #3,-622.0955,11.95888,-620.2346
+Mordion Gaol,Jail Cell #4,-181.904,11.95323,219.9589
+Mordion Gaol,Jail Cell #5,-181.1566,11.96968,-219.9886
+The Shrine of Ru'Avitau,The Celestial Nexus,-3.38,48,60
+The Shrine of Ru'Avitau,Diorites,739.9678,-99.59996,-659.4318
+Outer Ra'Kaznar,Upper Level,-478.0999,-178.6667,-396.7845
+King Ranperre's Tomb,Vrtra,216.9469,7.653957,-304.2968
+King Ranperre's Tomb,Cemetry Cherry,20.39034,-1,-246.234
+King Ranperre's Tomb,East Ronfaure (West),-129.8886,0,257.1804
+Attohwa Chasm,Tiamat Area,-543.9895,-10.76673,-47.10927
+Wajaom Woodlands,Aht Urhgan Whitegate,692.4673,-18.49677,219.9791
+Yhoator Jungle,Camp,-216.9663,2.82382,11.56291
+La Vaule [S],Jugner Forest [S],234.6294,0,19.109
+Jugner Forest [S],La Vaule [S],-201.221,-7.103845,-497.94
+Jugner Forest [S],Campaign Tower,71.77903,0.3267016,-6.356291
+La Vaule [S],Reinforced Gate,-112.6749,-0.8324599,-179.7429
+Oldton Movalpolos,Fishing,-89.70805,22.92668,-42.14619
+Buburimu Peninsula,Bibiki Bay,-275.9049,18.44975,-324.0331
+Upper Jeuno,Ru'Lude Gardens,42.08163,-2.798357,-32.67993
+Upper Jeuno,Lower Jeuno,16.15794,-0.8054693,-46.62025
+Castle Oztroja,PLD AF pool,-78.67211,23.73144,-38.23077
+Lower Jeuno,Upper Jeuno,8.605589,-1.998165,53.4813
+Upper Jeuno,M&P Market,-40.57088,-1.219987,134.9369
+Ifrit's Cauldron,Mining Point #1,-110.7645,16,29.20063
+Ifrit's Cauldron,Mining Point #3,-228.7124,37,136.2027
+Ifrit's Cauldron,Mining Point #4,-69.18974,-1.131552,-89.39785
+Ifrit's Cauldron,Mining Point #0,-225.3456,37.20824,134.7692
+Ifrit's Cauldron,Mining Point #2,-130.9167,42.66953,91.02215
+Ifrit's Cauldron,Mining Point #5,-99.344,-2.585,-16.141
+Ru'Lude Gardens,Maat,8.534801,3.1,117.9554
+Pashhow Marshlands,Beadeaux,570.0057,25,-376.8716
+Port Jeuno,Lower Jeuno,-150.8312,-2.99814,-19.04858
+Labyrinth of Onzozo,Coeurl Camp,-34.14484,4.874459,140.6306
+Al Zahbi,Jeuno Warp,60.23182,0,-50.73146
+Xarcabard,Perennial Snow,339.3032,-0.1264807,-377.0455
+Castle Oztroja,Start of Top Floor,-100.3561,-71.75,-147.3409
+King Ranperre's Tomb,Jugner Forest,244.0488,6.869913,341.2021
+Rolanberry Fields,Lower Jeuno,335.0538,24.18037,608.9151
+unknown,[Escha] Seiryu Island,559.3203,-70.02,-61.62278
+unknown,[Escha] Jailer of Fortitude,-433.4358,-36.0001,-110.5521
+Grauberg [S],Conflux,-142.3029,-6.75,588.9158
+Kamihr Drifts,Fronteir Station,439.403,63,-272.554
+Kamihr Drifts,Alpine Trail,-11.46321,0.007259876,487.485
+Kamihr Drifts,Blocked Path,-220.566,41.29918,-410.6626
+Cirdas Caverns,Wavering Flux,299.6679,28.94804,-68.7115
+Yorcia Weald,Wavering Flux,45.12026,-0.2042344,370.46
+Yorcia Weald,Fronteir Station,353.4173,0.2157727,153.1848
+Yorcia Weald,Home Point,-419.2271,0.7020417,-65.79185
+Ceizak Battlegrounds,Ergon Locus #1,85.79909,-0.216604,74.64001
+Ceizak Battlegrounds,Fronteir Station,365.3142,0.4511161,190.2459
+Escha - Zi'Tah,Entrance,-345.429,1.111253,-178.93
+Escha - Zi'Tah,Portal #1,-343.4612,0.2731576,-172.2268
+Escha - Zi'Tah,EXP,-306.7243,-1.049696,387.3609
+Escha - Zi'Tah,Portal #2,-304.6595,-0.1999022,311.0347
+Escha - Zi'Tah,Portal #6,453.0371,1.709491,-344.2878
+Qufim Island,Undulating Confluence,-204.2149,-20.01189,77.89445
+Yahse Hunting Grounds,Bivouac #1,86.5779,0,-0.02377713
+Misareaux Coast,Home Point,-66,-17.28696,562
+Cirdas Caverns,Yorcia Weald,200.5,10,219.656
+Foret de Hennetiel,Fronteir Station,398.0743,-2,278.1033
+Escha - Ru'Aun,Portal #7,-438.4073,-70.62,337.8837
+Escha - Ru'Aun,Jailer of Fortitude,-374.8216,-20.0001,-98.71936
+Yorcia Weald,Pillar to Cirdas,161.448,0.1006281,-358.799
+Cirdas Caverns,Pillar (Map 2),-499.1678,30.3,-579.9401
+Abyssea - Altepa,Amarok,-535.5291,0.7487764,157.0048
+Cloister of Tides,Water Protocrystal,559.7327,36.5,561.6454
+Al'Taieu,Jailer of Prudence,690.9089,-1.084559,0.4713202
+Al'Taieu,Jailer of Love,461.109,-0.9525512,-582.7319
+The Garden of Ru'Hmet,Ix'DRG SE Room,-322.8664,5,-522.3094
+The Garden of Ru'Hmet,Ix'DRG NE Room,-314.6978,5,-366.4906
+The Garden of Ru'Hmet,Ix'DRG NW Room,-520.8939,5,-368.2244
+The Garden of Ru'Hmet,Ix'DRG SW Room,-520,5,-525
+Yorcia Weald,Skirmish,172.6185,4.35502,-258.4055
+Abyssea - Uleguerand,Drone Khimaria,-282.3309,-155.5263,267.217
+Abyssea - Uleguerand,Apademak,-334.9857,-156.0342,345.6519
+Abyssea - Uleguerand,Snowflake,-213.0196,-183.9445,447.6866
+Abyssea - Uleguerand,Isgebind,152.0322,-116.5219,476.8247
+Reisenjima,Entrance,-500.8965,-19.19963,-489.3509
+Abyssea - Vunkerl,Conflux #01,-313.7319,-40.24586,678.743
+Abyssea - Vunkerl,Conflux #03,202.4671,-31.98921,315.7608
+Cirdas Caverns,Dho Gates,-178.9709,30.15174,-312.3777
+Doh Gates,Rocky Outcrop,-289.7421,-30.67245,218.365
+Yorcia Weald,Occulist Footprints,248.9013,-2.529532,387.3443
+Marjami Ravine,Hostage Tent,-113.0198,20.14782,-79.47568
+Marjami Ravine,Seat of Gramk-Droog,61.97204,17.41245,-71.04279
+Doh Gates,Ergon Lotus,-310,0,-95
+Sih Gates,Ergon Lotus,98.7089,0.7026602,-135.4874
+Moh Gates,Ergon Lotus,448.256,30.4401,-38.38735
+Cirdas Caverns,Hiding Place,349.003,30.22126,198.8556
+Cirdas Caverns,EXP,448.1407,28.93921,376.1932
+Marjami Ravine,Weathered Canvas,110.7379,40.26196,-157.6276
+Cirdas Caverns [U],Liilj,61.28967,19.52107,-174.6114
+Cirdas Caverns [U],Tyrl,539.9464,29.44237,-153.686
+Ra'Kaznar Inner Court,Sinister Reign Entrance,774,119.5,18
+Yorcia Weald,Suspicious Place J-8,265.8492,2.87195,20.13499
+Yorcia Weald,Suspicious Place I-8,162.7096,-0.03662491,35.30642
+Yorcia Weald,Suspicious Place H-9,-64.429,3.098004,-106.518
+Qu'Bia Arena,BC Entrance,-213.8571,-24.625,19.81284
+Chamber of Oracles,BC Entrance,-219.863,-1.88147,20.48244
+Ra'Kaznar Inner Court,Lair Reive #1,320.1305,110.25,39.76423
+Ra'Kaznar Inner Court,Lair Reive #2,679.5598,130.25,240.4852
+Ra'Kaznar Inner Court,Colonization Revie #1,511.5588,100,231.6161
+Ghoyu's Reverie,Ollek,297.5638,-0.1294311,-279.9455
+Sauromugue Champaign [S],Bulwark Gate,-443.9566,0.9225688,341.5257
+Ceizak Battlegrounds,Home Point,-106,3.21687,295
+Morimar Basalt Fields,Rime Ice Fragment,495.0043,-15.90561,75.20105
+Morimar Basalt Fields,Bivouac #3,171.3698,-15.85837,-318.4243
+Morimar Basalt Fields,Hot Spring #3,7.598045,0.3686794,-12.2011
+Morimar Basalt Fields,Hot Spring #1,-52.65501,0.6180111,151.2771
+Morimar Basalt Fields,Hot Spring #2,-128.2765,0.5009058,-26.69123
+Foret de Hennetiel,Secret Beach,438.3989,0.3,-415.4209
+Abyssea - Vunkerl,Quasimodo,-274.8535,-40.9273,-367.9407
+Abyssea - Vunkerl,Bukhi's Island,-196.1139,-40,-279.5629
+Abyssea - Konschtat,Kukulkan,-38.47241,70.15555,551.429
+Abyssea - Konschtat,Conflux #05,-125,15.99163,282
+Abyssea - Konschtat,Arimaspi,437.9803,31.93464,357.0322
+Abyssea - Konschtat,Alkonost,53.66867,31.06643,409.0426
+Abyssea - Konschtat,Keratyrannos,-133.9956,47.38911,415.7204
+Riverne - Site #B01,Home Point #1,-520.9677,-18.88867,505.7503
+Riverne - Site #B01,Monarch Linn,-534.4517,-20.5,502.2916
+Monarch Linn,BC Entrance,-35.36865,-1.786139,-539.0317
+Reisenjima,NMs,-580.7474,-51.4,87.53201
+Alzadaal Undersea Ruins,Staging Point,210.7491,0,20.60532
+Alzadaal Undersea Ruins,Arrapago Remnants,-579.9998,0,-157.9741
+Escha - Ru'Aun,Start,8.464163,-34.0001,-459.6899
+Escha - Ru'Aun,Portal #4,-455.7834,-70.62,-305.5563
+Escha - Ru'Aun,Portal #10,186,-71.42066,514.5
+Escha - Ru'Aun,Portal #13,546.5,-71.42066,-17
+Xarcabard [S],Home Point #1,223.1768,-13.7567,-252.5185
+Misareaux Coast,Seaboard Vulture,472.386,-7.982309,77.43933
+Marjami Ravine,Bivouac #1,320.1078,-20,-80.71249
+Escha - Ru'Aun,NM ???,107.2936,-40.10585,-430.9337
+Alzadaal Undersea Ruins,Bhaflau Remnants,619.9639,0,-201.885
+Ru'Aun Gardens,Home Point #5,304,-42.00436,-426
+Kazham,Home Point #1,76.654,-13,-94.457
+Ceizak Battlegrounds,Bivouac #3,-444.6563,-2.026558E-06,-239.876
+Bhaflau Remnants,Door #1,-401.9582,-2.384186E-07,-499.9978
+Bhaflau Remnants,Door #2,-339.5978,0,-441.622
+Leujaoam Sanctum,[RvB] Rune of Release,19.99,-7.5,-363.797
+Leujaoam Sanctum,[RvB] Objective,141.3508,-7.971985,-148.6458
+Outer Ra'Kaznar,CP Camp,260.6678,70,240.7984
+Abyssea - Misareaux,Heqet,252.8501,-15.60082,393.0659
+Alzadaal Undersea Ruins,Silver Sea Remnants,580.1201,0,442.7031
+The Boyahda Tree,Home Point #1,88.2546,-15.33164,-217.2239
+Xarcabard [S],Castke Zvahl Baileys [S],-414,-44,20
+Mamook,Mamool Ja Staging Point,-117.491,-17.77863,-300.7459
+Cape Teriggan,Manticore Area,-201.5897,0,441.2282
+Xarcabard,Trail Markings,571.5438,-0.6388309,-272.7198
+Sea Serpent Grotto,Abyss Sahagin,119.262,10,-281.8096
+Abyssea - Grauberg,Earthy Mound,229.8763,-48.91627,127.9539
+Abyssea - Grauberg,Ranpi Monpi,792.8939,31.60456,476.8888
+Abyssea - Grauberg,Start,-540.7916,27.85226,-757.0422
+Abyssea - Grauberg,Cornelia,-13.02694,0.5025786,-481.5966
+Abyssea - Grauberg,Wyverns,344.8286,-24.70488,-66.09853
+Abyssea - Grauberg,Rukususu,-234.8538,-47.94384,-157.4851
+Abyssea - Uleguerand,Conflux #7,-256.4994,-176.4452,236.7826
+Abyssea - Uleguerand,Conflux #6,339.7701,-100.4724,501.8169
+Abyssea - Uleguerand,Romaa Mihgo's Camp,515.8476,-19.81788,-101.5112
+Abyssea - Uleguerand,Start,-237.9518,-40,-519.4384
+Abyssea - Uleguerand,Perfaumand,-374.1182,-111.8494,-20.21436
+Fort Karugo-Narugo [S],Rotih Moalghett,-63.3783,-75.58689,3.990877
+Meriphataud Mountains [S],Castle Oztroja [S],734.605,-32.03516,-40.04511
+Castle Oztroja [S],Collapsing Floor,-100.3119,-72.75281,-21.25148
+Abyssea - Altepa,Ironclad Smiter,-746.1915,-17.36017,-694.7061
+Abyssea - Altepa,Tabilla,-875.0769,-8.181319,-525.1192
+Ve'Lugannon Palace,Uptala pop,-120.0438,0.575826,-388.7003
+Selbina,Nomad Moogle,65.87009,-14.5586,-4.275494
+Buburimu Peninsula,OP,-479.9992,-31.82009,49.51142
+Chocobo Circuit,Woodworking Vendor,-17.15339,-14.5,-132.9505
+Ru'Lude Gardens,AH,-71.38097,5.591,-4.922428
+Ghelsba Outpost,Hut Door,-164.3116,-11.67226,78.03895
+Southern San d'Oria,Nothern San d'Oria,-0.5273203,-2,47.63215
+West Sarutabaruta,Giddeus,-370.7896,-21.4735,67.26826
+The Sanctuary of Zi'Tah,Near OP,-40.19626,0.5532287,-146.4219
+Crawlers' Nest,Solider Crawlers,-71.6432,-8.779104,248.7018
+Crawlers' Nest,Nest Beetles,-80.61424,-32.03437,-99.79545
+Maze of Shakhrami,Buburimu Peninsula,474.629,-28.60077,-259.091
+Bostaunieux Oubliette,After Hatch,-26.44628,0.05798423,25.39057
+Crawlers' Nest,Knight Crawlers,-170.8052,-0.3708036,219.5186
+Crawlers' Nest,Helm Beetles,-179,-0.5176697,-378.5
+Waughroon Shrine,BC Exit,339.2459,-115.127,259.5054
+Waughroon Shrine,Burning Circle,-340.9876,104.3048,-260.2578
+Den of Rancor,Home Point #2,184.3451,36.66903,-62.35578
+Waughroon Shrine,BC Start,-262.139,60.30483,-139.863
+Aht Urhgan Whitegate,Naja Salaheem,26.86776,-7.805,-45.71758
+Kamihr Drifts,Col Reive 1,230.994,40.41865,-124.6964
+
+Kamihr Drifts,Col Reive 2,94.44784,40.42472,-267.5283
+
+Kamihr Drifts,Col Reive 3,-46.14159,20.38215,-2.043459
+
+Kamihr Drifts,Col Reive 4,-374.393,0.4793651,272.2772
+
+Yorcia Weald,Col Reive 1,261.3206,0.4514498,-121.6957
+
+Yorcia Weald,Col Reive 2,136.6581,2.470371,332.7333
+
+Yorcia Weald,Col Reive 3,-95.0556,-1.870484,221.6089
+
+Yorcia Weald,Col Reive 4,28.71103,0.989988,-185.8873

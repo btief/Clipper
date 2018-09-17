@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<zonelist>
+  <zone name="unknown" id="0" />
+  <zone name="Phanauet Channel" id="1" />
+  <zone name="Carpenters' Landing" id="2" />
+  <zone name="Manaclipper" id="3" />
+  <zone name="Bibiki Bay" id="4" />
+  <zone name="Uleguerand Range" id="5" />
+  <zone name="Bearclaw Pinnacle" id="6" />
+  <zone name="Attohwa Chasm" id="7" />
+  <zone name="Boneyard Gully" id="8" />
+  <zone name="Pso'Xja" id="9" />
+  <zone name="The Shrouded Maw" id="10" />
+  <zone name="Oldton Movalpolos" id="11" />
+  <zone name="Newton Movalpolos" id="12" />
+  <zone name="Mine Shaft #2716" id="13" />
+  <zone name="Hall of Transference" id="14" />
+  <zone name="Abyssea - Konschtat" id="15" />
+  <zone name="Promyvion - Holla" id="16" />
+  <zone name="Spire of Holla" id="17" />
+  <zone name="Promyvion - Dem" id="18" />
+  <zone name="Spire of Dem" id="19" />
+  <zone name="Promyvion - Mea" id="20" />
+  <zone name="Spire of Mea" id="21" />
+  <zone name="Promyvion - Vahzl" id="22" />
+  <zone name="Spire of Vahzl" id="23" />
+  <zone name="Lufaise Meadows" id="24" />
+  <zone name="Misareaux Coast" id="25" />
+  <zone name="Tavnazian Safehold" id="26" />
+  <zone name="Phomiuna Aqueducts" id="27" />
+  <zone name="Sacrarium" id="28" />
+  <zone name="Riverne - Site #B01" id="29" />
+  <zone name="Riverne - Site #A01" id="30" />
+  <zone name="Monarch Linn" id="31" />
+  <zone name="Sealion's Den" id="32" />
+  <zone name="Al'Taieu" id="33" />
+  <zone name="Grand Palace of Hu'Xzoi" id="34" />
+  <zone name="The Garden of Ru'Hmet" id="35" />
+  <zone name="Empyreal Paradox" id="36" />
+  <zone name="Temenos" id="37" />
+  <zone name="Apollyon" id="38" />
+  <zone name="Dynamis - Valkurm" id="39" />
+  <zone name="Dynamis - Buburimu" id="40" />
+  <zone name="Dynamis - Qufim" id="41" />
+  <zone name="Dynamis - Tavnazia" id="42" />
+  <zone name="Diorama Abdhaljs-Ghelsba" id="43" />
+  <zone name="Abdhaljs Isle-Purgonorgo" id="44" />
+  <zone name="Abyssea - Tahrongi" id="45" />
+  <zone name="Open sea route to Al Zahbi" id="46" />
+  <zone name="Open sea route to Mhaura" id="47" />
+  <zone name="Al Zahbi" id="48" />
+  <zone name="Unknown" id="49" />
+  <zone name="Aht Urhgan Whitegate" id="50" />
+  <zone name="Wajaom Woodlands" id="51" />
+  <zone name="Bhaflau Thickets" id="52" />
+  <zone name="Nashmau" id="53" />
+  <zone name="Arrapago Reef" id="54" />
+  <zone name="Ilrusi Atoll" id="55" />
+  <zone name="Periqia" id="56" />
+  <zone name="Talacca Cove" id="57" />
+  <zone name="Silver Sea route to Nashmau" id="58" />
+  <zone name="Silver Sea route to Al Zahbi" id="59" />
+  <zone name="The Ashu Talif" id="60" />
+  <zone name="Mount Zhayolm" id="61" />
+  <zone name="Halvung" id="62" />
+  <zone name="Lebros Cavern" id="63" />
+  <zone name="Navukgo Execution Chamber" id="64" />
+  <zone name="Mamook" id="65" />
+  <zone name="Mamool Ja Training Grounds" id="66" />
+  <zone name="Jade Sepulcher" id="67" />
+  <zone name="Aydeewa Subterrane" id="68" />
+  <zone name="Leujaoam Sanctum" id="69" />
+  <zone name="Chocobo Circuit" id="70" />
+  <zone name="The Colosseum" id="71" />
+  <zone name="Alzadaal Undersea Ruins" id="72" />
+  <zone name="Zhayolm Remnants" id="73" />
+  <zone name="Arrapago Remnants" id="74" />
+  <zone name="Bhaflau Remnants" id="75" />
+  <zone name="Silver Sea Remnants" id="76" />
+  <zone name="Nyzul Isle" id="77" />
+  <zone name="Hazhalm Testing Grounds" id="78" />
+  <zone name="Caedarva Mire" id="79" />
+  <zone name="Southern San d'Oria [S]" id="80" />
+  <zone name="East Ronfaure [S]" id="81" />
+  <zone name="Jugner Forest [S]" id="82" />
+  <zone name="Vunkerl Inlet [S]" id="83" />
+  <zone name="Batallia Downs [S]" id="84" />
+  <zone name="La Vaule [S]" id="85" />
+  <zone name="Everbloom Hollow" id="86" />
+  <zone name="Bastok Markets [S]" id="87" />
+  <zone name="North Gustaberg [S]" id="88" />
+  <zone name="Grauberg [S]" id="89" />
+  <zone name="Pashhow Marshlands [S]" id="90" />
+  <zone name="Rolanberry Fields [S]" id="91" />
+  <zone name="Beadeaux [S]" id="92" />
+  <zone name="Ruhotz Silvermines" id="93" />
+  <zone name="Windurst Waters [S]" id="94" />
+  <zone name="West Sarutabaruta [S]" id="95" />
+  <zone name="Fort Karugo-Narugo [S]" id="96" />
+  <zone name="Meriphataud Mountains [S]" id="97" />
+  <zone name="Sauromugue Champaign [S]" id="98" />
+  <zone name="Castle Oztroja [S]" id="99" />
+  <zone name="West Ronfaure" id="100" />
+  <zone name="East Ronfaure" id="101" />
+  <zone name="La Theine Plateau" id="102" />
+  <zone name="Valkurm Dunes" id="103" />
+  <zone name="Jugner Forest" id="104" />
+  <zone name="Batallia Downs" id="105" />
+  <zone name="North Gustaberg" id="106" />
+  <zone name="South Gustaberg" id="107" />
+  <zone name="Konschtat Highlands" id="108" />
+  <zone name="Pashhow Marshlands" id="109" />
+  <zone name="Rolanberry Fields" id="110" />
+  <zone name="Beaucedine Glacier" id="111" />
+  <zone name="Xarcabard" id="112" />
+  <zone name="Cape Teriggan" id="113" />
+  <zone name="Eastern Altepa Desert" id="114" />
+  <zone name="West Sarutabaruta" id="115" />
+  <zone name="East Sarutabaruta" id="116" />
+  <zone name="Tahrongi Canyon" id="117" />
+  <zone name="Buburimu Peninsula" id="118" />
+  <zone name="Meriphataud Mountains" id="119" />
+  <zone name="Sauromugue Champaign" id="120" />
+  <zone name="The Sanctuary of Zi'Tah" id="121" />
+  <zone name="Ro'Maeve" id="122" />
+  <zone name="Yuhtunga Jungle" id="123" />
+  <zone name="Yhoator Jungle" id="124" />
+  <zone name="Western Altepa Desert" id="125" />
+  <zone name="Qufim Island" id="126" />
+  <zone name="Behemoth's Dominion" id="127" />
+  <zone name="Valley of Sorrows" id="128" />
+  <zone name="Ghoyu's Reverie" id="129" />
+  <zone name="Ru'Aun Gardens" id="130" />
+  <zone name="Mordion Gaol" id="131" />
+  <zone name="Abyssea - La Theine" id="132" />
+  <zone name="" id="133" />
+  <zone name="Dynamis - Beaucedine" id="134" />
+  <zone name="Dynamis - Xarcabard" id="135" />
+  <zone name="Beaucedine Glacier [S]" id="136" />
+  <zone name="Xarcabard [S]" id="137" />
+  <zone name="Castle Zvahl Baileys [S]" id="138" />
+  <zone name="Horlais Peak" id="139" />
+  <zone name="Ghelsba Outpost" id="140" />
+  <zone name="Fort Ghelsba" id="141" />
+  <zone name="Yughott Grotto" id="142" />
+  <zone name="Palborough Mines" id="143" />
+  <zone name="Waughroon Shrine" id="144" />
+  <zone name="Giddeus" id="145" />
+  <zone name="Balga's Dais" id="146" />
+  <zone name="Beadeaux" id="147" />
+  <zone name="Qulun Dome" id="148" />
+  <zone name="Davoi" id="149" />
+  <zone name="Monastic Cavern" id="150" />
+  <zone name="Castle Oztroja" id="151" />
+  <zone name="Altar Room" id="152" />
+  <zone name="The Boyahda Tree" id="153" />
+  <zone name="Dragon's Aery" id="154" />
+  <zone name="Castle Zvahl Keep [S]" id="155" />
+  <zone name="Throne Room [S]" id="156" />
+  <zone name="Middle Delkfutt's Tower" id="157" />
+  <zone name="Upper Delkfutt's Tower" id="158" />
+  <zone name="Temple of Uggalepih" id="159" />
+  <zone name="Den of Rancor" id="160" />
+  <zone name="Castle Zvahl Baileys" id="161" />
+  <zone name="Castle Zvahl Keep" id="162" />
+  <zone name="Sacrificial Chamber" id="163" />
+  <zone name="Garlaige Citadel [S]" id="164" />
+  <zone name="Throne Room" id="165" />
+  <zone name="Ranguemont Pass" id="166" />
+  <zone name="Bostaunieux Oubliette" id="167" />
+  <zone name="Chamber of Oracles" id="168" />
+  <zone name="Toraimarai Canal" id="169" />
+  <zone name="Full Moon Fountain" id="170" />
+  <zone name="Crawlers' Nest [S]" id="171" />
+  <zone name="Zeruhn Mines" id="172" />
+  <zone name="Korroloka Tunnel" id="173" />
+  <zone name="Kuftal Tunnel" id="174" />
+  <zone name="The Eldieme Necropolis [S]" id="175" />
+  <zone name="Sea Serpent Grotto" id="176" />
+  <zone name="Ve'Lugannon Palace" id="177" />
+  <zone name="The Shrine of Ru'Avitau" id="178" />
+  <zone name="Stellar Fulcrum" id="179" />
+  <zone name="La'Loff Amphitheater" id="180" />
+  <zone name="The Celestial Nexus" id="181" />
+  <zone name="Walk of Echoes" id="182" />
+  <zone name="The Last Stand" id="183" />
+  <zone name="Lower Delkfutt's Tower" id="184" />
+  <zone name="Dynamis - San d'Oria" id="185" />
+  <zone name="Dynamis - Bastok" id="186" />
+  <zone name="Dynamis - Windurst" id="187" />
+  <zone name="Dynamis - Jeuno" id="188" />
+  <zone name="" id="189" />
+  <zone name="King Ranperre's Tomb" id="190" />
+  <zone name="Dangruf Wadi" id="191" />
+  <zone name="Inner Horutoto Ruins" id="192" />
+  <zone name="Ordelle's Caves" id="193" />
+  <zone name="Outer Horutoto Ruins" id="194" />
+  <zone name="The Eldieme Necropolis" id="195" />
+  <zone name="Gusgen Mines" id="196" />
+  <zone name="Crawlers' Nest" id="197" />
+  <zone name="Maze of Shakhrami" id="198" />
+  <zone name="" id="199" />
+  <zone name="Garlaige Citadel" id="200" />
+  <zone name="Cloister of Gales" id="201" />
+  <zone name="Cloister of Storms" id="202" />
+  <zone name="Cloister of Frost" id="203" />
+  <zone name="Fei'Yin" id="204" />
+  <zone name="Ifrit's Cauldron" id="205" />
+  <zone name="Qu'Bia Arena" id="206" />
+  <zone name="Cloister of Flames" id="207" />
+  <zone name="Quicksand Caves" id="208" />
+  <zone name="Cloister of Tremors" id="209" />
+  <zone name="" id="210" />
+  <zone name="Cloister of Tides" id="211" />
+  <zone name="Gustav Tunnel" id="212" />
+  <zone name="Labyrinth of Onzozo" id="213" />
+  <zone name="Whitegate - Mog House" id="214" />
+  <zone name="Abyssea - Attohwa" id="215" />
+  <zone name="Abyssea - Misareaux" id="216" />
+  <zone name="Abyssea - Vunkerl" id="217" />
+  <zone name="Abyssea - Altepa" id="218" />
+  <zone name="" id="219" />
+  <zone name="Ship bound for Selbina" id="220" />
+  <zone name="Ship bound for Mhaura" id="221" />
+  <zone name="Provenance" id="222" />
+  <zone name="San d'Oria-Jeuno Airship" id="223" />
+  <zone name="Bastok-Jeuno Airship" id="224" />
+  <zone name="Windurst-Jeuno Airship" id="225" />
+  <zone name="Kazham-Jeuno Airship" id="226" />
+  <zone name="Ship bound for Selbina" id="227" />
+  <zone name="Ship bound for Mhaura" id="228" />
+  <zone name="" id="229" />
+  <zone name="Southern San d'Oria" id="230" />
+  <zone name="Northern San d'Oria" id="231" />
+  <zone name="Port San d'Oria" id="232" />
+  <zone name="Chateau d'Oraguille" id="233" />
+  <zone name="Bastok Mines" id="234" />
+  <zone name="Bastok Markets" id="235" />
+  <zone name="Port Bastok" id="236" />
+  <zone name="Metalworks" id="237" />
+  <zone name="Windurst Waters" id="238" />
+  <zone name="Windurst Walls" id="239" />
+  <zone name="Port Windurst" id="240" />
+  <zone name="Windurst Woods" id="241" />
+  <zone name="Heavens Tower" id="242" />
+  <zone name="Ru'Lude Gardens" id="243" />
+  <zone name="Upper Jeuno" id="244" />
+  <zone name="Lower Jeuno" id="245" />
+  <zone name="Port Jeuno" id="246" />
+  <zone name="Rabao" id="247" />
+  <zone name="Selbina" id="248" />
+  <zone name="Mhaura" id="249" />
+  <zone name="Kazham" id="250" />
+  <zone name="Hall of the Gods" id="251" />
+  <zone name="Norg" id="252" />
+  <zone name="Abyssea - Uleguerand" id="253" />
+  <zone name="Abyssea - Grauberg" id="254" />
+  <zone name="Abyssea - Empyreal Paradox" id="255" />
+  <zone name="Western Adoulin" id="256" />
+  <zone name="Eastern Adoulin" id="257" />
+  <zone name="Rala Waterways" id="258" />
+  <zone name="Rala Waterways [U]" id="259" />
+  <zone name="Yahse Hunting Grounds" id="260" />
+  <zone name="Ceizak Battlegrounds" id="261" />
+  <zone name="Foret de Hennetiel" id="262" />
+  <zone name="Yorcia Weald" id="263" />
+  <zone name="Yorcia Weald [U]" id="264" />
+  <zone name="Morimar Basalt Fields" id="265" />
+  <zone name="Marjami Ravine" id="266" />
+  <zone name="Kamihr Drifts" id="267" />
+  <zone name="Sih Gates" id="268" />
+  <zone name="Moh Gates" id="269" />
+  <zone name="Cirdas Caverns" id="270" />
+  <zone name="Cirdas Caverns [U]" id="271" />
+  <zone name="Doh Gates" id="272" />
+  <zone name="Woh Gates" id="273" />
+  <zone name="Outer Ra'Kaznar" id="274" />
+  <zone name="Outer Ra'Kaznar [U]" id="275" />
+  <zone name="Ra'Kaznar Inner Court" id="276" />
+  <zone name="Mog Gardens" id="280" />
+  <zone name="Leafallia" id="281" />
+  <zone name="Mount Kamihr" id="282" />
+  <zone name="Silver Knife" id="283" />
+  <zone name="Celennia Wexworth Memorial Library" id="284" />
+  <zone name="Escha - Zi'Tah" id="288" />
+  <zone name="Escha - Ru'Aun" id="289" />
+  <zone name="Reisenjima" id="291" />
+  <zone name="Reisenjima Henge" id="292" />
+  <zone name="Reisenjima Sanctorium" id="293" />
+  <zone name="System.Windows.Forms.TextBox, Text: The Sanctuary of Zi'Tah" id="80" />
+  <zone name="System.Windows.Forms.TextBox, Text: Uleguerand Range" id="50" />
+</zonelist>
